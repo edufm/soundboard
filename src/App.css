@@ -1,0 +1,149 @@
+.app {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.effects-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 16px 20px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--panel-bg);
+}
+
+.effect-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 160px;
+}
+
+.effect-control label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-h);
+  min-width: 70px;
+}
+
+.effect-control input[type='range'] {
+  flex: 1;
+  accent-color: var(--accent);
+}
+
+.effect-value {
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  min-width: 42px;
+  text-align: right;
+}
+
+.load-error {
+  color: var(--danger);
+}
+
+.tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 8px;
+}
+
+.tab {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+
+.tab.active {
+  background: var(--accent-bg);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.sound-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.sound-button {
+  padding: 20px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--panel-bg);
+  color: var(--text-h);
+  cursor: pointer;
+  font-weight: 500;
+  transition: transform 0.1s, border-color 0.15s;
+}
+
+.sound-button:active {
+  transform: scale(0.96);
+}
+
+.sound-button.error {
+  border-color: var(--danger);
+  color: var(--danger);
+}
+
+.sound-button.expanded {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.empty-tab {
+  color: var(--text);
+  font-style: italic;
+}
+
+/* Fixed-position overlay: covers the viewport so bubbles can float above the
+   grid, but only the bubbles themselves are clickable. */
+.variation-bubbles {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+}
+
+.variation-bubble {
+  position: fixed;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 1px solid var(--accent-border);
+  background: var(--accent-bg);
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  pointer-events: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  animation: bubble-pop 0.15s ease-out;
+}
+
+@keyframes bubble-pop {
+  from {
+    transform: translate(-50%, -50%) scale(0.4);
+    opacity: 0;
+  }
+  to {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}

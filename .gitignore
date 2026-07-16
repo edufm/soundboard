@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Python (tools/)
+__pycache__/
+*.pyc
+
+# Audio files are third-party/copyrighted content — kept local only, never
+# versioned. sounds.csv (the data driving the app) is still tracked.
+public/sounds/**/*.mp3
+public/sounds/**/*.wav
+public/sounds/**/*.ogg
+public/sounds/**/*.m4a
+public/sounds/**/*.flac
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
