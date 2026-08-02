@@ -16,6 +16,11 @@ A row's `gain_db` (see tools/measure_loudness.py) is carried over whenever a
 row with the same path_to_file + start_time + end_time already existed —
 renaming a file breaks that match (its path changes), so a renamed file's
 gain_db resets to blank and needs measure_loudness.py run again for it.
+
+Any file whose name contains "musica" (case-insensitive) also gets a second
+row in the MUSIC_TAB tab, in addition to its normal folder-based tab — so
+songs filed under a mood folder (e.g. Tristeza) still show up under Musicas
+too. Files already living directly in MUSIC_TAB aren't duplicated.
 """
 import csv
 import subprocess
@@ -27,6 +32,8 @@ SOUNDS_DIR = ROOT / "public" / "sounds"
 CSV_PATH = ROOT / "public" / "sounds.csv"
 AUDIO_EXTENSIONS = {".mp3", ".wav", ".ogg", ".m4a", ".flac"}
 COLUMNS = ["name", "tab", "start_time", "end_time", "path_to_file", "parent", "gain_db"]
+MUSIC_KEYWORD = "musica"
+MUSIC_TAB = "Musicas"
 
 
 def format_time(seconds):
@@ -76,6 +83,18 @@ def scan_folders(gain_lookup):
     return rows
 
 
+def add_music_crosslistings(rows):
+    """Duplicate any row whose name contains MUSIC_KEYWORD into MUSIC_TAB too,
+    so songs scattered across mood folders are still all reachable from one
+    tab, on top of their own."""
+    extra = [
+        {**row, "tab": MUSIC_TAB}
+        for row in rows
+        if row["tab"] != MUSIC_TAB and MUSIC_KEYWORD in row["name"].lower()
+    ]
+    return rows + extra
+
+
 def read_existing_rows():
     """All data rows from the current sounds.csv, if any."""
     if not CSV_PATH.exists():
@@ -100,6 +119,7 @@ def main():
     new_rows = scan_folders(gain_lookup)
     if not new_rows:
         sys.exit(f"No audio files found under {SOUNDS_DIR}")
+    new_rows = add_music_crosslistings(new_rows)
 
     names_by_tab = {}
     for row in new_rows:
