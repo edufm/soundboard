@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { loadSounds } from './csvParser'
-import { setEffect, setSpeed } from './audioEngine'
+import { setEffect, setSpeed, stopAll } from './audioEngine'
 import EffectsBar from './components/EffectsBar'
 import Tabs from './components/Tabs'
 import SoundGrid from './components/SoundGrid'
@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="app">
-      <EffectsBar effects={effects} onChange={handleEffectChange} />
+      <EffectsBar effects={effects} onChange={handleEffectChange} onStopAll={stopAll} />
 
       {loadError && <p className="load-error">Couldn't load sounds.csv: {loadError}</p>}
 

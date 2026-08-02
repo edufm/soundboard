@@ -9,7 +9,7 @@ function formatValue(key, value) {
   return key === 'speed' ? `${value.toFixed(2)}x` : `${Math.round(value * 100)}%`
 }
 
-function EffectsBar({ effects, onChange }) {
+function EffectsBar({ effects, onChange, onStopAll }) {
   return (
     <div className="effects-bar">
       {EFFECTS.map(({ key, label, min, max, step }) => (
@@ -27,6 +27,9 @@ function EffectsBar({ effects, onChange }) {
           <span className="effect-value">{formatValue(key, effects[key])}</span>
         </div>
       ))}
+      <button type="button" className="stop-all-button" onClick={onStopAll}>
+        ⏹ Parar Tudo
+      </button>
     </div>
   )
 }

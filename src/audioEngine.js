@@ -5,6 +5,7 @@ let ctx = null
 let chain = null
 let speed = 1 // playback rate multiplier, applied to clips started after a change
 const bufferCache = new Map() // path -> Promise<AudioBuffer>
+const activeSources = new Set()
 
 function makeDistortionCurve(amount) {
   const samples = 44100
@@ -148,5 +149,18 @@ export async function playClip({ path, startTime, endTime, gainDb = 0 }) {
 
   source.connect(clipGain)
   clipGain.connect(chain.firstStageIn)
+  source.addEventListener('ended', () => activeSources.delete(source))
+  activeSources.add(source)
   source.start(c.currentTime, startTime, duration)
+}
+
+export function stopAll() {
+  for (const source of activeSources) {
+    try {
+      source.stop()
+    } catch {
+      // already stopped
+    }
+  }
+  activeSources.clear()
 }

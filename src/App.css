@@ -44,6 +44,29 @@
   text-align: right;
 }
 
+.stop-all-button {
+  margin-left: auto;
+  padding: 8px 16px;
+  border: 1px solid var(--danger);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--danger);
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  align-self: center;
+}
+
+.stop-all-button:hover {
+  background: var(--danger);
+  color: var(--panel-bg);
+}
+
+.stop-all-button:active {
+  transform: scale(0.96);
+}
+
 .load-error {
   color: var(--danger);
 }
