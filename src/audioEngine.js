@@ -111,6 +111,10 @@ export function setEffect(name, intensity) {
 
 export function setSpeed(value) {
   speed = value
+  const c = getContext()
+  for (const source of activeSources) {
+    source.playbackRate.setTargetAtTime(value, c.currentTime, 0.02)
+  }
 }
 
 export function setVolume(value) {
