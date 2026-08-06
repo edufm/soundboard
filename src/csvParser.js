@@ -60,6 +60,10 @@ export function parseCSV(text) {
 
 const ALL_TAB = 'All'
 
+function byName(a, b) {
+  return a.name.localeCompare(b.name, 'pt-BR', { sensitivity: 'base' })
+}
+
 // Builds one level of nesting: top-level rows (parent === '') become buttons,
 // each carrying a `variations` array of the rows that named it as their parent.
 // A variation whose own parent is itself a variation is not supported (and is
@@ -70,6 +74,9 @@ export function groupByTab(rows) {
 
   const tabOrder = [ALL_TAB]
   const tabsMap = { [ALL_TAB]: [] }
+  // A clip cross-listed into multiple tabs (same file/start/end, different
+  // "tab" column) should still only appear once in "All".
+  const seenInAll = new Set()
   for (const row of parentRows) {
     if (!(row.tab in tabsMap)) {
       tabOrder.push(row.tab)
@@ -77,7 +84,12 @@ export function groupByTab(rows) {
     }
     const button = { ...row, variations: [] }
     tabsMap[row.tab].push(button)
-    tabsMap[ALL_TAB].push(button)
+
+    const clipKey = `${row.path}|${row.startTime}|${row.endTime}`
+    if (!seenInAll.has(clipKey)) {
+      seenInAll.add(clipKey)
+      tabsMap[ALL_TAB].push(button)
+    }
   }
 
   for (const child of childRows) {
@@ -92,7 +104,16 @@ export function groupByTab(rows) {
     parent.variations.push(child)
   }
 
-  return { tabOrder, tabsMap }
+  for (const tab of tabOrder) {
+    tabsMap[tab].sort(byName)
+  }
+  // "All" always stays first; the rest are alphabetical.
+  const sortedTabOrder = [
+    ALL_TAB,
+    ...tabOrder.slice(1).sort((a, b) => a.localeCompare(b, 'pt-BR', { sensitivity: 'base' })),
+  ]
+
+  return { tabOrder: sortedTabOrder, tabsMap }
 }
 
 // Matches a sound by its own name or any of its variations' names, so a
