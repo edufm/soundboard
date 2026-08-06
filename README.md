@@ -1,9 +1,11 @@
 # Soundboard
 
 A browser soundboard built with React + Vite. Effects (echo, distortion,
-reverb, speed) apply globally via the Web Audio API; tabs and buttons are
-driven by `public/sounds.csv`. Buttons can also have variations (different
-clips of the same underlying audio) revealed with a long press.
+reverb, speed, volume) apply globally via the Web Audio API; tabs and buttons
+are driven by `public/sounds.csv`. Buttons can also have variations (different
+clips of the same underlying audio) revealed with a long press. A search bar
+filters buttons by name across every tab, and an "All" tab always lists every
+sound in one place.
 
 ## Running it
 
@@ -48,6 +50,19 @@ the button, one per variation — tap a bubble to play that variation. Tap
 anywhere else (or press Escape) to close the bubbles without playing
 anything. Only one level of nesting is supported — a variation can't have its
 own sub-variations.
+
+## Tabs, "All", and search
+
+Tab order (and the buttons within each tab) is always alphabetical, with one
+exception: an "All" tab is pinned first and lists every button from every
+tab in one place. A clip cross-listed into multiple tabs (e.g. a song filed
+under both `Musicas` and a mood tab) still only appears once in "All".
+
+The search bar filters by button name — including a match on any of a
+button's variation names, so the parent button still surfaces even if only
+one of its variations matches. While a search query is active, results are
+pulled from across every tab (like searching "All"), regardless of which tab
+is currently selected.
 
 ## Populating sounds.csv from public/sounds
 
@@ -110,15 +125,21 @@ This never touches or re-encodes the audio files — it only rewrites
 nothing, so there's no meaningful runtime overhead to worry about. Gain is
 clamped to ±12dB so a near-silent or corrupted clip doesn't get boosted into
 noise. Re-run it any time after adding sounds or re-running
-`generate_csv.py` (takes well under a minute for ~130 clips) — rows that
-already have a `gain_db` just get re-measured and overwritten with the same
-process. EBU R128 gating wants a few seconds of audio to be fully reliable,
-so very short single-word clips can occasionally read louder/quieter than
-they sound — nudge `gain_db` by hand in the CSV if one still sounds off.
+`generate_csv.py`. EBU R128 gating wants a few seconds of audio to be fully
+reliable, so very short single-word clips can occasionally read louder/
+quieter than they sound — nudge `gain_db` by hand in the CSV if one still
+sounds off.
+
+Only top-level clips are actually measured — a variation is just a slice of
+its parent's own file, so it reuses the parent's `gain_db` instead of
+re-running `ffmpeg loudnorm` on every single one. Much faster on a large CSV
+(a few hundred top-level clips instead of several hundred rows total), and
+arguably more reliable too, since a full clip's measurement is sturdier than
+a few-hundred-ms slice's.
 
 ## Effects
 
-The top bar has four global Web Audio sliders, applied to every sound
+The top bar has five global Web Audio sliders, applied to every sound
 regardless of which button triggered it:
 
 - **Echo** — delay + feedback loop
@@ -127,6 +148,11 @@ regardless of which button triggered it:
   (no external IR file needed)
 - **Speed** — playback rate (0.5x–2x); like changing a tape's speed, this
   also shifts pitch
+- **Volume** — master gain (0%–150%), so you don't have to reach for the
+  system/OS volume control
+
+All five apply live, including to sounds that are already playing — turning a
+slider mid-playback doesn't wait for the next button press to take effect.
 
 Multiple sounds can overlap — clicking a button never stops another one
 that's already playing, so you can layer/spam sounds like a real soundboard.
