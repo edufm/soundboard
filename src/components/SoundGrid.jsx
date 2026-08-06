@@ -1,8 +1,8 @@
 import SoundButton from './SoundButton'
 
-function SoundGrid({ sounds }) {
+function SoundGrid({ sounds, emptyMessage = 'No sounds in this tab.' }) {
   if (sounds.length === 0) {
-    return <p className="empty-tab">No sounds in this tab.</p>
+    return <p className="empty-tab">{emptyMessage}</p>
   }
 
   return (

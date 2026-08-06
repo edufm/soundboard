@@ -1,8 +1,9 @@
-import { useEffect, useState } from 'react'
-import { loadSounds } from './csvParser'
+import { useEffect, useMemo, useState } from 'react'
+import { filterSounds, loadSounds } from './csvParser'
 import { setEffect, setSpeed, setVolume, stopAll } from './audioEngine'
 import EffectsBar from './components/EffectsBar'
 import Tabs from './components/Tabs'
+import SearchBar from './components/SearchBar'
 import SoundGrid from './components/SoundGrid'
 import './App.css'
 
@@ -17,6 +18,8 @@ function App() {
   const [tabsData, setTabsData] = useState(null)
   const [activeTab, setActiveTab] = useState(null)
   const [loadError, setLoadError] = useState(null)
+  const [searchQuery, setSearchQuery] = useState('')
+  const isSearching = searchQuery.trim().length > 0
 
   useEffect(() => {
     loadSounds()
@@ -34,20 +37,31 @@ function App() {
     else setEffect(name, value)
   }
 
+  const visibleSounds = useMemo(() => {
+    if (!tabsData) return []
+    if (isSearching) return filterSounds(tabsData.tabsMap.All, searchQuery)
+    return tabsData.tabsMap[activeTab] ?? []
+  }, [tabsData, activeTab, isSearching, searchQuery])
+
   return (
     <div className="app">
       <EffectsBar effects={effects} onChange={handleEffectChange} onStopAll={stopAll} />
+
+      <SearchBar value={searchQuery} onChange={setSearchQuery} />
 
       {loadError && <p className="load-error">Couldn't load sounds.csv: {loadError}</p>}
 
       {tabsData && (
         <>
-          <Tabs
-            tabOrder={tabsData.tabOrder}
-            active={activeTab}
-            onSelect={setActiveTab}
+          {!isSearching && (
+            <Tabs tabOrder={tabsData.tabOrder} active={activeTab} onSelect={setActiveTab} />
+          )}
+          <SoundGrid
+            sounds={visibleSounds}
+            emptyMessage={
+              isSearching ? `Nenhum som encontrado para "${searchQuery}".` : undefined
+            }
           />
-          <SoundGrid sounds={tabsData.tabsMap[activeTab] ?? []} />
         </>
       )}
     </div>

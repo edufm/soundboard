@@ -95,6 +95,18 @@ export function groupByTab(rows) {
   return { tabOrder, tabsMap }
 }
 
+// Matches a sound by its own name or any of its variations' names, so a
+// search still surfaces the parent button that has the matching variation.
+export function filterSounds(sounds, query) {
+  const q = query.trim().toLowerCase()
+  if (!q) return sounds
+  return sounds.filter(
+    (sound) =>
+      sound.name.toLowerCase().includes(q) ||
+      sound.variations.some((variation) => variation.name.toLowerCase().includes(q)),
+  )
+}
+
 export async function loadSounds(csvUrl = '/sounds.csv') {
   const response = await fetch(csvUrl)
   if (!response.ok) {
