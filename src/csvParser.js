@@ -58,6 +58,8 @@ export function parseCSV(text) {
   return rows
 }
 
+const ALL_TAB = 'All'
+
 // Builds one level of nesting: top-level rows (parent === '') become buttons,
 // each carrying a `variations` array of the rows that named it as their parent.
 // A variation whose own parent is itself a variation is not supported (and is
@@ -66,14 +68,16 @@ export function groupByTab(rows) {
   const parentRows = rows.filter((row) => !row.parent)
   const childRows = rows.filter((row) => row.parent)
 
-  const tabOrder = []
-  const tabsMap = {}
+  const tabOrder = [ALL_TAB]
+  const tabsMap = { [ALL_TAB]: [] }
   for (const row of parentRows) {
     if (!(row.tab in tabsMap)) {
       tabOrder.push(row.tab)
       tabsMap[row.tab] = []
     }
-    tabsMap[row.tab].push({ ...row, variations: [] })
+    const button = { ...row, variations: [] }
+    tabsMap[row.tab].push(button)
+    tabsMap[ALL_TAB].push(button)
   }
 
   for (const child of childRows) {
