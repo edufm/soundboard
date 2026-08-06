@@ -15,6 +15,11 @@ Very short clips (some single-word variations are well under a second) can
 report loud/quiet swings that don't quite match what your ears hear — treat
 the numbers as a good starting point, not gospel, and nudge gain_db by hand
 in the CSV if a specific button still sounds off.
+
+Only top-level clips (blank `parent`) are actually measured — each
+variation just reuses its parent's gain_db, since it's the same underlying
+audio and re-measuring a few-hundred-ms slice is both slow and less
+reliable than the full clip's own measurement.
 """
 import csv
 import json
@@ -78,8 +83,17 @@ def main():
         fieldnames.append("gain_db")
     rows = list(reader)
 
-    total = len(rows)
-    for i, row in enumerate(rows, start=1):
+    # Variations are just a slice of their parent's own file, so their
+    # loudness is effectively the parent's (and EBU R128 is unreliable on
+    # very short clips anyway — see module docstring) — measure each
+    # top-level clip once and reuse its gain_db for all its variations
+    # instead of re-running ffmpeg on every single one.
+    parents = [row for row in rows if not row.get("parent")]
+    children = [row for row in rows if row.get("parent")]
+
+    total = len(parents)
+    gain_by_parent = {}
+    for i, row in enumerate(parents, start=1):
         path = PUBLIC_DIR / row["path_to_file"]
         label = f'{row["name"]} ({row["tab"]})'
         try:
@@ -89,7 +103,27 @@ def main():
             continue
         gain_db = max(-MAX_GAIN_DB, min(MAX_GAIN_DB, TARGET_LUFS - measured_i))
         row["gain_db"] = f"{gain_db:.1f}"
+        gain_by_parent[(row["name"], row["tab"])] = row["gain_db"]
         print(f"[{i}/{total}] {label}: measured {measured_i:.1f} LUFS -> gain {gain_db:+.1f}dB")
+
+    for row in children:
+        key = (row["parent"], row["tab"])
+        label = f'{row["name"]} ({row["tab"]})'
+        if key in gain_by_parent:
+            row["gain_db"] = gain_by_parent[key]
+            print(f"  {label}: reused parent's gain {row['gain_db']}dB")
+            continue
+        # Parent wasn't measured this run (e.g. its own measurement failed) —
+        # fall back to measuring the variation directly.
+        path = PUBLIC_DIR / row["path_to_file"]
+        try:
+            measured_i = measure_integrated_loudness(path, row["start_time"], row["end_time"])
+        except Exception as e:
+            print(f"  SKIP {label}: {e}", file=sys.stderr)
+            continue
+        gain_db = max(-MAX_GAIN_DB, min(MAX_GAIN_DB, TARGET_LUFS - measured_i))
+        row["gain_db"] = f"{gain_db:.1f}"
+        print(f"  {label}: measured {measured_i:.1f} LUFS -> gain {gain_db:+.1f}dB (no parent measurement)")
 
     with CSV_PATH.open("w", newline="") as f:
         f.writelines(comment_lines)
@@ -97,7 +131,7 @@ def main():
         writer.writeheader()
         writer.writerows(rows)
 
-    print(f"\nUpdated gain_db for {total} rows in {CSV_PATH}")
+    print(f"\nUpdated gain_db for {len(rows)} rows ({total} measured, {len(children)} reused) in {CSV_PATH}")
 
 
 if __name__ == "__main__":

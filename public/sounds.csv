@@ -1,7 +1,7 @@
 name,tab,start_time,end_time,path_to_file,parent,gain_db
 Acabou Acabou Acabou,Felicidade,00:00:00.000,00:00:06.673,sounds/Felicidade/Acabou Acabou Acabou.mp3,,10.4
-Acabou Acabou Acabou - part 1,Felicidade,00:00:00.000,00:00:01.668,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.0
-Acabou Acabou Acabou - part 2,Felicidade,00:00:01.668,00:00:03.337,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.1
+Acabou Acabou Acabou - part 1,Felicidade,00:00:00.000,00:00:01.668,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.4
+Acabou Acabou Acabou - part 2,Felicidade,00:00:01.668,00:00:03.337,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.4
 Acabou Acabou Acabou - part 3,Felicidade,00:00:03.337,00:00:05.005,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.4
 Acabou Acabou Acabou - part 4,Felicidade,00:00:05.005,00:00:06.673,sounds/Felicidade/Acabou Acabou Acabou.mp3,Acabou Acabou Acabou,10.4
 Acerto Mizeravi,Felicidade,00:00:00.000,00:00:01.802,sounds/Felicidade/Acerto Mizeravi.mp3,,-7.3
@@ -10,18 +10,18 @@ Acerto Mizeravi - part 2,Felicidade,00:00:00.451,00:00:00.901,sounds/Felicidade/
 Acerto Mizeravi - part 3,Felicidade,00:00:00.901,00:00:01.352,sounds/Felicidade/Acerto Mizeravi.mp3,Acerto Mizeravi,-7.3
 Acerto Mizeravi - part 4,Felicidade,00:00:01.352,00:00:01.802,sounds/Felicidade/Acerto Mizeravi.mp3,Acerto Mizeravi,-7.3
 Bolsonaro - Imbroxavel,Felicidade,00:00:00.000,00:00:08.870,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,,2.1
-Bolsonaro - Imbroxavel - part 1,Felicidade,00:00:00.000,00:00:02.217,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,1.7
-Bolsonaro - Imbroxavel - part 2,Felicidade,00:00:02.217,00:00:04.435,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,1.8
+Bolsonaro - Imbroxavel - part 1,Felicidade,00:00:00.000,00:00:02.217,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,2.1
+Bolsonaro - Imbroxavel - part 2,Felicidade,00:00:02.217,00:00:04.435,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,2.1
 Bolsonaro - Imbroxavel - part 3,Felicidade,00:00:04.435,00:00:06.652,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,2.1
 Bolsonaro - Imbroxavel - part 4,Felicidade,00:00:06.652,00:00:08.870,sounds/Felicidade/Bolsonaro - Imbroxavel.mp3,Bolsonaro - Imbroxavel,2.1
 Ele Fez De Novo,Felicidade,00:00:00.000,00:00:32.040,sounds/Felicidade/Ele Fez De Novo.mp3,,0.1
-Ele Fez De Novo - part 1,Felicidade,00:00:00.000,00:00:08.010,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,-0.2
-Ele Fez De Novo - part 2,Felicidade,00:00:08.010,00:00:16.020,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,-0.4
-Ele Fez De Novo - part 3,Felicidade,00:00:16.020,00:00:24.030,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,-0.2
+Ele Fez De Novo - part 1,Felicidade,00:00:00.000,00:00:08.010,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,0.1
+Ele Fez De Novo - part 2,Felicidade,00:00:08.010,00:00:16.020,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,0.1
+Ele Fez De Novo - part 3,Felicidade,00:00:16.020,00:00:24.030,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,0.1
 Ele Fez De Novo - part 4,Felicidade,00:00:24.030,00:00:32.040,sounds/Felicidade/Ele Fez De Novo.mp3,Ele Fez De Novo,0.1
 F1 Tema Vitória,Felicidade,00:00:00.000,00:00:11.308,sounds/Felicidade/F1 Tema Vitória.mp3,,-0.6
-F1 Tema Vitória - part 1,Felicidade,00:00:00.000,00:00:02.827,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-1.9
-F1 Tema Vitória - part 2,Felicidade,00:00:02.827,00:00:05.654,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-1.6
+F1 Tema Vitória - part 1,Felicidade,00:00:00.000,00:00:02.827,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-0.6
+F1 Tema Vitória - part 2,Felicidade,00:00:02.827,00:00:05.654,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-0.6
 F1 Tema Vitória - part 3,Felicidade,00:00:05.654,00:00:08.481,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-0.6
 F1 Tema Vitória - part 4,Felicidade,00:00:08.481,00:00:11.308,sounds/Felicidade/F1 Tema Vitória.mp3,F1 Tema Vitória,-0.6
 Faustão - Acertou,Felicidade,00:00:00.000,00:00:01.584,sounds/Felicidade/Faustão - Acertou.mp3,,7.5
@@ -30,20 +30,25 @@ Faustão - Acertou - part 2,Felicidade,00:00:00.396,00:00:00.792,sounds/Felicida
 Faustão - Acertou - part 3,Felicidade,00:00:00.792,00:00:01.188,sounds/Felicidade/Faustão - Acertou.mp3,Faustão - Acertou,7.5
 Faustão - Acertou - part 4,Felicidade,00:00:01.188,00:00:01.584,sounds/Felicidade/Faustão - Acertou.mp3,Faustão - Acertou,7.5
 GTA SA Mission Passed,Felicidade,00:00:00.000,00:00:07.472,sounds/Felicidade/GTA SA Mission Passed.mp3,,1.1
-GTA SA Mission Passed - part 1,Felicidade,00:00:00.000,00:00:01.868,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,0.9
-GTA SA Mission Passed - part 2,Felicidade,00:00:01.868,00:00:03.736,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,0.8
+GTA SA Mission Passed - part 1,Felicidade,00:00:00.000,00:00:01.868,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,1.1
+GTA SA Mission Passed - part 2,Felicidade,00:00:01.868,00:00:03.736,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,1.1
 GTA SA Mission Passed - part 3,Felicidade,00:00:03.736,00:00:05.604,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,1.1
 GTA SA Mission Passed - part 4,Felicidade,00:00:05.604,00:00:07.472,sounds/Felicidade/GTA SA Mission Passed.mp3,GTA SA Mission Passed,1.1
 Galvão - O Homem é uma Lenda,Felicidade,00:00:00.000,00:00:04.350,sounds/Felicidade/Galvão - O Homem é uma Lenda.mp3,,7.6
+Galvão - Vai Perde Vai Ganhar,Felicidade,00:00:00.000,00:00:05.934,sounds/Felicidade/Galvão - Vai Perde Vai Ganhar.mp3,,1.4
+Galvão - Vai Perde Vai Ganhar - word 1,Felicidade,00:00:00.040,00:00:00.880,sounds/Felicidade/Galvão - Vai Perde Vai Ganhar.mp3,Galvão - Vai Perde Vai Ganhar,1.4
+Galvão - Vai Perde Vai Ganhar - word 2,Felicidade,00:00:00.940,00:00:01.620,sounds/Felicidade/Galvão - Vai Perde Vai Ganhar.mp3,Galvão - Vai Perde Vai Ganhar,1.4
+Galvão - Vai Perde Vai Ganhar - word 3,Felicidade,00:00:01.680,00:00:03.700,sounds/Felicidade/Galvão - Vai Perde Vai Ganhar.mp3,Galvão - Vai Perde Vai Ganhar,1.4
+Galvão - Vai Perde Vai Ganhar - word 4,Felicidade,00:00:04.080,00:00:05.900,sounds/Felicidade/Galvão - Vai Perde Vai Ganhar.mp3,Galvão - Vai Perde Vai Ganhar,1.4
 Giornos Theme,Felicidade,00:00:00.000,00:00:30.000,sounds/Felicidade/Giornos Theme.mp3,,-1.7
-Giornos Theme - part 1,Felicidade,00:00:00.000,00:00:07.500,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,3.6
-Giornos Theme - part 2,Felicidade,00:00:07.500,00:00:15.000,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-0.2
-Giornos Theme - part 3,Felicidade,00:00:15.000,00:00:22.500,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-1.3
+Giornos Theme - part 1,Felicidade,00:00:00.000,00:00:07.500,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-1.7
+Giornos Theme - part 2,Felicidade,00:00:07.500,00:00:15.000,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-1.7
+Giornos Theme - part 3,Felicidade,00:00:15.000,00:00:22.500,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-1.7
 Giornos Theme - part 4,Felicidade,00:00:22.500,00:00:30.000,sounds/Felicidade/Giornos Theme.mp3,Giornos Theme,-1.7
 Musica - Somebody Use to Know,Felicidade,00:00:00.000,00:00:18.924,sounds/Felicidade/Musica - Somebody Use to Know.mp3,,-5.0
-Musica - Somebody Use to Know - part 1,Felicidade,00:00:00.000,00:00:04.731,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-6.1
-Musica - Somebody Use to Know - part 2,Felicidade,00:00:04.731,00:00:09.462,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.8
-Musica - Somebody Use to Know - part 3,Felicidade,00:00:09.462,00:00:14.193,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.6
+Musica - Somebody Use to Know - part 1,Felicidade,00:00:00.000,00:00:04.731,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
+Musica - Somebody Use to Know - part 2,Felicidade,00:00:04.731,00:00:09.462,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
+Musica - Somebody Use to Know - part 3,Felicidade,00:00:09.462,00:00:14.193,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
 Musica - Somebody Use to Know - part 4,Felicidade,00:00:14.193,00:00:18.924,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
 O Miseravel é Um Genio,Felicidade,00:00:00.000,00:00:01.885,sounds/Felicidade/O Miseravel é Um Genio.mp3,,1.0
 O Miseravel é Um Genio - part 1,Felicidade,00:00:00.000,00:00:00.471,sounds/Felicidade/O Miseravel é Um Genio.mp3,O Miseravel é Um Genio,1.0
@@ -52,8 +57,8 @@ O Miseravel é Um Genio - part 3,Felicidade,00:00:00.943,00:00:01.414,sounds/Fel
 O Miseravel é Um Genio - part 4,Felicidade,00:00:01.414,00:00:01.885,sounds/Felicidade/O Miseravel é Um Genio.mp3,O Miseravel é Um Genio,1.0
 Obrigado Amigo Vc É Um Amigo,Felicidade,00:00:00.000,00:00:02.561,sounds/Felicidade/Obrigado Amigo Vc É Um Amigo.mp3,,-1.6
 Quem Fez Fez,Felicidade,00:00:00.000,00:00:05.400,sounds/Felicidade/Quem Fez Fez.mp3,,0.9
-Quem Fez Fez - word 1,Felicidade,00:00:00.000,00:00:00.260,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,-0.3
-Quem Fez Fez - word 2,Felicidade,00:00:00.460,00:00:01.720,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,0.3
+Quem Fez Fez - word 1,Felicidade,00:00:00.000,00:00:00.260,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,0.9
+Quem Fez Fez - word 2,Felicidade,00:00:00.460,00:00:01.720,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,0.9
 Quem Fez Fez - word 3,Felicidade,00:00:01.760,00:00:03.500,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,0.9
 Quem Fez Fez - word 4,Felicidade,00:00:03.640,00:00:05.400,sounds/Felicidade/Quem Fez Fez.mp3,Quem Fez Fez,0.9
 Serjao - Aqui Tem Corage,Felicidade,00:00:00.000,00:00:01.250,sounds/Felicidade/Serjao - Aqui Tem Corage.mp3,,0.1
@@ -63,11 +68,11 @@ Serjao - Aqui Tem Corage - part 3,Felicidade,00:00:00.625,00:00:00.938,sounds/Fe
 Serjao - Aqui Tem Corage - part 4,Felicidade,00:00:00.938,00:00:01.250,sounds/Felicidade/Serjao - Aqui Tem Corage.mp3,Serjao - Aqui Tem Corage,0.1
 Serjao - Verdade Nao Minto,Felicidade,00:00:00.000,00:00:02.470,sounds/Felicidade/Serjao - Verdade Nao Minto.mp3,,1.4
 Smzinho - Bicho E Bom Mesmo,Felicidade,00:00:00.000,00:00:04.656,sounds/Felicidade/Smzinho - Bicho E Bom Mesmo.mp3,,-1.9
-Smzinho - Bicho E Bom Mesmo - word 1,Felicidade,00:00:00.000,00:00:00.200,sounds/Felicidade/Smzinho - Bicho E Bom Mesmo.mp3,Smzinho - Bicho E Bom Mesmo,-1.6
+Smzinho - Bicho E Bom Mesmo - word 1,Felicidade,00:00:00.000,00:00:00.200,sounds/Felicidade/Smzinho - Bicho E Bom Mesmo.mp3,Smzinho - Bicho E Bom Mesmo,-1.9
 Smzinho - Bicho E Bom Mesmo - word 2,Felicidade,00:00:00.360,00:00:03.760,sounds/Felicidade/Smzinho - Bicho E Bom Mesmo.mp3,Smzinho - Bicho E Bom Mesmo,-1.9
 Smzinho - Bicho E Bom Mesmo - word 3,Felicidade,00:00:04.140,00:00:04.656,sounds/Felicidade/Smzinho - Bicho E Bom Mesmo.mp3,Smzinho - Bicho E Bom Mesmo,-1.9
 Smzinho - Meu Heroi Nao Usa Capa,Felicidade,00:00:00.000,00:00:04.992,sounds/Felicidade/Smzinho - Meu Heroi Nao Usa Capa.mp3,,-3.2
-Smzinho - Meu Heroi Nao Usa Capa - word 1,Felicidade,00:00:00.180,00:00:01.140,sounds/Felicidade/Smzinho - Meu Heroi Nao Usa Capa.mp3,Smzinho - Meu Heroi Nao Usa Capa,-2.9
+Smzinho - Meu Heroi Nao Usa Capa - word 1,Felicidade,00:00:00.180,00:00:01.140,sounds/Felicidade/Smzinho - Meu Heroi Nao Usa Capa.mp3,Smzinho - Meu Heroi Nao Usa Capa,-3.2
 Smzinho - Meu Heroi Nao Usa Capa - word 2,Felicidade,00:00:01.400,00:00:04.900,sounds/Felicidade/Smzinho - Meu Heroi Nao Usa Capa.mp3,Smzinho - Meu Heroi Nao Usa Capa,-3.2
 Smzinho - Peguei o Esquema,Felicidade,00:00:00.000,00:00:13.610,sounds/Felicidade/Smzinho - Peguei o Esquema.mp3,,-12.0
 Smzinho - Peguei o Esquema - part 1,Felicidade,00:00:00.000,00:00:03.402,sounds/Felicidade/Smzinho - Peguei o Esquema.mp3,Smzinho - Peguei o Esquema,-12.0
@@ -75,8 +80,8 @@ Smzinho - Peguei o Esquema - part 2,Felicidade,00:00:03.402,00:00:06.805,sounds/
 Smzinho - Peguei o Esquema - part 3,Felicidade,00:00:06.805,00:00:10.207,sounds/Felicidade/Smzinho - Peguei o Esquema.mp3,Smzinho - Peguei o Esquema,-12.0
 Smzinho - Peguei o Esquema - part 4,Felicidade,00:00:10.207,00:00:13.610,sounds/Felicidade/Smzinho - Peguei o Esquema.mp3,Smzinho - Peguei o Esquema,-12.0
 Terminator 2 Theme,Felicidade,00:00:00.000,00:00:06.661,sounds/Felicidade/Terminator 2 Theme.mp3,,1.6
-Terminator 2 Theme - part 1,Felicidade,00:00:00.000,00:00:01.665,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.8
-Terminator 2 Theme - part 2,Felicidade,00:00:01.665,00:00:03.330,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.7
+Terminator 2 Theme - part 1,Felicidade,00:00:00.000,00:00:01.665,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.6
+Terminator 2 Theme - part 2,Felicidade,00:00:01.665,00:00:03.330,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.6
 Terminator 2 Theme - part 3,Felicidade,00:00:03.330,00:00:04.996,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.6
 Terminator 2 Theme - part 4,Felicidade,00:00:04.996,00:00:06.661,sounds/Felicidade/Terminator 2 Theme.mp3,Terminator 2 Theme,1.6
 UEPA,Felicidade,00:00:00.000,00:00:01.985,sounds/Felicidade/UEPA.mp3,,-1.2
@@ -85,15 +90,10 @@ UEPA - part 2,Felicidade,00:00:00.496,00:00:00.993,sounds/Felicidade/UEPA.mp3,UE
 UEPA - part 3,Felicidade,00:00:00.993,00:00:01.489,sounds/Felicidade/UEPA.mp3,UEPA,-1.2
 UEPA - part 4,Felicidade,00:00:01.489,00:00:01.985,sounds/Felicidade/UEPA.mp3,UEPA,-1.2
 Uhhhhhh Yeah Baby,Felicidade,00:00:00.000,00:00:07.140,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,,-4.4
-Uhhhhhh Yeah Baby - part 1,Felicidade,00:00:00.000,00:00:01.785,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,Uhhhhhh Yeah Baby,-5.3
+Uhhhhhh Yeah Baby - part 1,Felicidade,00:00:00.000,00:00:01.785,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,Uhhhhhh Yeah Baby,-4.4
 Uhhhhhh Yeah Baby - part 2,Felicidade,00:00:01.785,00:00:03.570,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,Uhhhhhh Yeah Baby,-4.4
 Uhhhhhh Yeah Baby - part 3,Felicidade,00:00:03.570,00:00:05.355,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,Uhhhhhh Yeah Baby,-4.4
 Uhhhhhh Yeah Baby - part 4,Felicidade,00:00:05.355,00:00:07.140,sounds/Felicidade/Uhhhhhh Yeah Baby.mp3,Uhhhhhh Yeah Baby,-4.4
-Vai Perde Vai Ganhar,Felicidade,00:00:00.000,00:00:14.186,sounds/Felicidade/Vai Perde Vai Ganhar.mp3,,2.4
-Vai Perde Vai Ganhar - part 1,Felicidade,00:00:00.000,00:00:03.546,sounds/Felicidade/Vai Perde Vai Ganhar.mp3,Vai Perde Vai Ganhar,1.5
-Vai Perde Vai Ganhar - part 2,Felicidade,00:00:03.546,00:00:07.093,sounds/Felicidade/Vai Perde Vai Ganhar.mp3,Vai Perde Vai Ganhar,1.5
-Vai Perde Vai Ganhar - part 3,Felicidade,00:00:07.093,00:00:10.639,sounds/Felicidade/Vai Perde Vai Ganhar.mp3,Vai Perde Vai Ganhar,1.9
-Vai Perde Vai Ganhar - part 4,Felicidade,00:00:10.639,00:00:14.186,sounds/Felicidade/Vai Perde Vai Ganhar.mp3,Vai Perde Vai Ganhar,2.4
 Yayyyyyyy,Felicidade,00:00:00.000,00:00:08.150,sounds/Felicidade/Yayyyyyyy.mp3,,-3.8
 Yayyyyyyy - part 1,Felicidade,00:00:00.000,00:00:02.038,sounds/Felicidade/Yayyyyyyy.mp3,Yayyyyyyy,-3.8
 Yayyyyyyy - part 2,Felicidade,00:00:02.038,00:00:04.075,sounds/Felicidade/Yayyyyyyy.mp3,Yayyyyyyy,-3.8
@@ -101,9 +101,19 @@ Yayyyyyyy - part 3,Felicidade,00:00:04.075,00:00:06.113,sounds/Felicidade/Yayyyy
 Yayyyyyyy - part 4,Felicidade,00:00:06.113,00:00:08.150,sounds/Felicidade/Yayyyyyyy.mp3,Yayyyyyyy,-3.8
 Yee ha,Felicidade,00:00:00.000,00:00:02.483,sounds/Felicidade/Yee ha.mp3,,-12.0
 Ai Pai Para,Memes,00:00:00.000,00:00:03.423,sounds/Memes/Ai Pai Para.mp3,,-3.3
-Ai Pai Para - word 1,Memes,00:00:00.060,00:00:00.360,sounds/Memes/Ai Pai Para.mp3,Ai Pai Para,-3.2
+Ai Pai Para - word 1,Memes,00:00:00.060,00:00:00.360,sounds/Memes/Ai Pai Para.mp3,Ai Pai Para,-3.3
 Ai Pai Para - word 2,Memes,00:00:00.420,00:00:01.760,sounds/Memes/Ai Pai Para.mp3,Ai Pai Para,-3.3
 Ai Pai Para - word 3,Memes,00:00:01.840,00:00:03.420,sounds/Memes/Ai Pai Para.mp3,Ai Pai Para,-3.3
+Aqui Ta chovendo E Repangalejando,Memes,00:00:00.000,00:00:06.506,sounds/Memes/Aqui Ta chovendo E Repangalejando.mp3,,-4.9
+Aqui Ta chovendo E Repangalejando - part 1,Memes,00:00:00.000,00:00:01.627,sounds/Memes/Aqui Ta chovendo E Repangalejando.mp3,Aqui Ta chovendo E Repangalejando,-4.9
+Aqui Ta chovendo E Repangalejando - part 2,Memes,00:00:01.627,00:00:03.253,sounds/Memes/Aqui Ta chovendo E Repangalejando.mp3,Aqui Ta chovendo E Repangalejando,-4.9
+Aqui Ta chovendo E Repangalejando - part 3,Memes,00:00:03.253,00:00:04.880,sounds/Memes/Aqui Ta chovendo E Repangalejando.mp3,Aqui Ta chovendo E Repangalejando,-4.9
+Aqui Ta chovendo E Repangalejando - part 4,Memes,00:00:04.880,00:00:06.506,sounds/Memes/Aqui Ta chovendo E Repangalejando.mp3,Aqui Ta chovendo E Repangalejando,-4.9
+BYD,Memes,00:00:00.000,00:00:12.981,sounds/Memes/BYD.mp3,,-1.4
+BYD - part 1,Memes,00:00:00.000,00:00:03.245,sounds/Memes/BYD.mp3,BYD,-1.4
+BYD - part 2,Memes,00:00:03.245,00:00:06.490,sounds/Memes/BYD.mp3,BYD,-1.4
+BYD - part 3,Memes,00:00:06.490,00:00:09.736,sounds/Memes/BYD.mp3,BYD,-1.4
+BYD - part 4,Memes,00:00:09.736,00:00:12.981,sounds/Memes/BYD.mp3,BYD,-1.4
 Bolinha De Golfe,Memes,00:00:00.000,00:00:01.335,sounds/Memes/Bolinha De Golfe.mp3,,7.5
 Bolinha De Golfe - part 1,Memes,00:00:00.000,00:00:00.334,sounds/Memes/Bolinha De Golfe.mp3,Bolinha De Golfe,7.5
 Bolinha De Golfe - part 2,Memes,00:00:00.334,00:00:00.667,sounds/Memes/Bolinha De Golfe.mp3,Bolinha De Golfe,7.5
@@ -113,8 +123,8 @@ Bolsonaro - Pegaram meu telefone,Memes,00:00:00.000,00:00:04.574,sounds/Memes/Bo
 Bolsonaro - Pegaram meu telefone - word 1,Memes,00:00:00.660,00:00:03.040,sounds/Memes/Bolsonaro - Pegaram meu telefone.mp3,Bolsonaro - Pegaram meu telefone,-0.7
 Bolsonaro - Pegaram meu telefone - word 2,Memes,00:00:03.220,00:00:04.574,sounds/Memes/Bolsonaro - Pegaram meu telefone.mp3,Bolsonaro - Pegaram meu telefone,-0.7
 Bom Dia Hadouken,Memes,00:00:00.000,00:00:07.711,sounds/Memes/Bom Dia Hadouken.mp3,,-7.4
-Bom Dia Hadouken - part 1,Memes,00:00:00.000,00:00:01.928,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-6.2
-Bom Dia Hadouken - part 2,Memes,00:00:01.928,00:00:03.856,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-7.1
+Bom Dia Hadouken - part 1,Memes,00:00:00.000,00:00:01.928,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-7.4
+Bom Dia Hadouken - part 2,Memes,00:00:01.928,00:00:03.856,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-7.4
 Bom Dia Hadouken - part 3,Memes,00:00:03.856,00:00:05.783,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-7.4
 Bom Dia Hadouken - part 4,Memes,00:00:05.783,00:00:07.711,sounds/Memes/Bom Dia Hadouken.mp3,Bom Dia Hadouken,-7.4
 Dragonoyd - Vetorial,Memes,00:00:00.000,00:00:04.018,sounds/Memes/Dragonoyd - Vetorial.mp3,,2.1
@@ -133,34 +143,44 @@ Eu Sou Filosofo Porra - part 1,Memes,00:00:00.000,00:00:00.483,sounds/Memes/Eu S
 Eu Sou Filosofo Porra - part 2,Memes,00:00:00.483,00:00:00.967,sounds/Memes/Eu Sou Filosofo Porra.mp3,Eu Sou Filosofo Porra,1.8
 Eu Sou Filosofo Porra - part 3,Memes,00:00:00.967,00:00:01.450,sounds/Memes/Eu Sou Filosofo Porra.mp3,Eu Sou Filosofo Porra,1.8
 Eu Sou Filosofo Porra - part 4,Memes,00:00:01.450,00:00:01.933,sounds/Memes/Eu Sou Filosofo Porra.mp3,Eu Sou Filosofo Porra,1.8
+FBI Open Up,Memes,00:00:00.000,00:00:02.011,sounds/Memes/FBI Open Up.mp3,,-0.9
 Faustão - Vc Destriui Meu Ovo,Memes,00:00:00.000,00:00:01.921,sounds/Memes/Faustão - Vc Destriui Meu Ovo.mp3,,-5.3
 Faustão - Vc Destriui Meu Ovo - part 1,Memes,00:00:00.000,00:00:00.480,sounds/Memes/Faustão - Vc Destriui Meu Ovo.mp3,Faustão - Vc Destriui Meu Ovo,-5.3
 Faustão - Vc Destriui Meu Ovo - part 2,Memes,00:00:00.480,00:00:00.961,sounds/Memes/Faustão - Vc Destriui Meu Ovo.mp3,Faustão - Vc Destriui Meu Ovo,-5.3
 Faustão - Vc Destriui Meu Ovo - part 3,Memes,00:00:00.961,00:00:01.441,sounds/Memes/Faustão - Vc Destriui Meu Ovo.mp3,Faustão - Vc Destriui Meu Ovo,-5.3
 Faustão - Vc Destriui Meu Ovo - part 4,Memes,00:00:01.441,00:00:01.921,sounds/Memes/Faustão - Vc Destriui Meu Ovo.mp3,Faustão - Vc Destriui Meu Ovo,-5.3
+Hokuto no Ken - Nani,Memes,00:00:00.000,00:00:00.685,sounds/Memes/Hokuto no Ken - Nani.mp3,,-7.1
+Hokuto no Ken - Nani - part 1,Memes,00:00:00.000,00:00:00.343,sounds/Memes/Hokuto no Ken - Nani.mp3,Hokuto no Ken - Nani,-7.1
+Hokuto no Ken - Nani - part 2,Memes,00:00:00.343,00:00:00.685,sounds/Memes/Hokuto no Ken - Nani.mp3,Hokuto no Ken - Nani,-7.1
+Hokuto no Ken - Omae Wa Mou Shindeiru,Memes,00:00:00.000,00:00:02.638,sounds/Memes/Hokuto no Ken - Omae Wa Mou Shindeiru.mp3,,-5.7
 Ill Be Back,Memes,00:00:00.000,00:00:03.088,sounds/Memes/Ill Be Back.mp3,,5.7
 Ja Usou Droga Hoje Né Noia?,Memes,00:00:00.000,00:00:04.963,sounds/Memes/Ja Usou Droga Hoje Né Noia?.mp3,,-9.3
 Ja Usou Droga Hoje Né Noia? - word 1,Memes,00:00:00.040,00:00:02.540,sounds/Memes/Ja Usou Droga Hoje Né Noia?.mp3,Ja Usou Droga Hoje Né Noia?,-9.3
 Ja Usou Droga Hoje Né Noia? - word 2,Memes,00:00:03.080,00:00:04.800,sounds/Memes/Ja Usou Droga Hoje Né Noia?.mp3,Ja Usou Droga Hoje Né Noia?,-9.3
 James Eu Quero Uma Salada De Fruta,Memes,00:00:00.000,00:00:02.429,sounds/Memes/James Eu Quero Uma Salada De Fruta.mp3,,-9.4
+Jesus Humilha Satanas,Memes,00:00:00.000,00:00:06.655,sounds/Memes/Jesus Humilha Satanas.mp3,,-1.9
+Jesus Humilha Satanas - part 1,Memes,00:00:00.000,00:00:01.664,sounds/Memes/Jesus Humilha Satanas.mp3,Jesus Humilha Satanas,-1.9
+Jesus Humilha Satanas - part 2,Memes,00:00:01.664,00:00:03.328,sounds/Memes/Jesus Humilha Satanas.mp3,Jesus Humilha Satanas,-1.9
+Jesus Humilha Satanas - part 3,Memes,00:00:03.328,00:00:04.991,sounds/Memes/Jesus Humilha Satanas.mp3,Jesus Humilha Satanas,-1.9
+Jesus Humilha Satanas - part 4,Memes,00:00:04.991,00:00:06.655,sounds/Memes/Jesus Humilha Satanas.mp3,Jesus Humilha Satanas,-1.9
 MegaFunk - Especial Lagartixas Tetraplegicas,Memes,00:00:00.000,00:00:14.118,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,,-7.0
-MegaFunk - Especial Lagartixas Tetraplegicas - part 1,Memes,00:00:00.000,00:00:03.530,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-6.6
-MegaFunk - Especial Lagartixas Tetraplegicas - part 2,Memes,00:00:03.530,00:00:07.059,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.1
-MegaFunk - Especial Lagartixas Tetraplegicas - part 3,Memes,00:00:07.059,00:00:10.588,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.2
+MegaFunk - Especial Lagartixas Tetraplegicas - part 1,Memes,00:00:00.000,00:00:03.530,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.0
+MegaFunk - Especial Lagartixas Tetraplegicas - part 2,Memes,00:00:03.530,00:00:07.059,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.0
+MegaFunk - Especial Lagartixas Tetraplegicas - part 3,Memes,00:00:07.059,00:00:10.588,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.0
 MegaFunk - Especial Lagartixas Tetraplegicas - part 4,Memes,00:00:10.588,00:00:14.118,sounds/Memes/MegaFunk - Especial Lagartixas Tetraplegicas.mp3,MegaFunk - Especial Lagartixas Tetraplegicas,-7.0
 MegaFunk - Especial Polenta E Droga,Memes,00:00:00.000,00:00:16.535,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,,-2.6
-MegaFunk - Especial Polenta E Droga - part 1,Memes,00:00:00.000,00:00:04.134,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,1.3
-MegaFunk - Especial Polenta E Droga - part 2,Memes,00:00:04.134,00:00:08.268,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-0.7
-MegaFunk - Especial Polenta E Droga - part 3,Memes,00:00:08.268,00:00:12.401,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-2.2
+MegaFunk - Especial Polenta E Droga - part 1,Memes,00:00:00.000,00:00:04.134,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-2.6
+MegaFunk - Especial Polenta E Droga - part 2,Memes,00:00:04.134,00:00:08.268,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-2.6
+MegaFunk - Especial Polenta E Droga - part 3,Memes,00:00:08.268,00:00:12.401,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-2.6
 MegaFunk - Especial Polenta E Droga - part 4,Memes,00:00:12.401,00:00:16.535,sounds/Memes/MegaFunk - Especial Polenta E Droga.mp3,MegaFunk - Especial Polenta E Droga,-2.6
 MegaFunk - Quem Tem Controle E Tv,Memes,00:00:00.000,00:00:09.009,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,,-3.9
-MegaFunk - Quem Tem Controle E Tv - part 1,Memes,00:00:00.000,00:00:02.252,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-4.2
-MegaFunk - Quem Tem Controle E Tv - part 2,Memes,00:00:02.252,00:00:04.505,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-4.1
+MegaFunk - Quem Tem Controle E Tv - part 1,Memes,00:00:00.000,00:00:02.252,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-3.9
+MegaFunk - Quem Tem Controle E Tv - part 2,Memes,00:00:02.252,00:00:04.505,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-3.9
 MegaFunk - Quem Tem Controle E Tv - part 3,Memes,00:00:04.505,00:00:06.757,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-3.9
 MegaFunk - Quem Tem Controle E Tv - part 4,Memes,00:00:06.757,00:00:09.009,sounds/Memes/MegaFunk - Quem Tem Controle E Tv.mp3,MegaFunk - Quem Tem Controle E Tv,-3.9
 Musica - To Be Continued,Memes,00:00:00.000,00:00:10.920,sounds/Memes/Musica - To Be Continued.mp3,,2.1
-Musica - To Be Continued - part 1,Memes,00:00:00.000,00:00:02.730,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,3.6
-Musica - To Be Continued - part 2,Memes,00:00:02.730,00:00:05.460,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.0
+Musica - To Be Continued - part 1,Memes,00:00:00.000,00:00:02.730,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
+Musica - To Be Continued - part 2,Memes,00:00:02.730,00:00:05.460,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 Musica - To Be Continued - part 3,Memes,00:00:05.460,00:00:08.190,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 Musica - To Be Continued - part 4,Memes,00:00:08.190,00:00:10.920,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 No Its Necessary,Memes,00:00:00.000,00:00:04.130,sounds/Memes/No Its Necessary.mp3,,9.4
@@ -170,61 +190,82 @@ Oi Meu Chapa - part 2,Memes,00:00:00.372,00:00:00.745,sounds/Memes/Oi Meu Chapa.
 Oi Meu Chapa - part 3,Memes,00:00:00.745,00:00:01.117,sounds/Memes/Oi Meu Chapa.mp3,Oi Meu Chapa,-6.2
 Oi Meu Chapa - part 4,Memes,00:00:01.117,00:00:01.489,sounds/Memes/Oi Meu Chapa.mp3,Oi Meu Chapa,-6.2
 Piton - filosofo,Memes,00:00:00.000,00:00:12.251,sounds/Memes/Piton - filosofo.mp3,,7.0
-Piton - filosofo - part 1,Memes,00:00:00.000,00:00:03.063,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,6.4
-Piton - filosofo - part 2,Memes,00:00:03.063,00:00:06.125,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,6.3
-Piton - filosofo - part 3,Memes,00:00:06.125,00:00:09.188,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,6.7
+Piton - filosofo - part 1,Memes,00:00:00.000,00:00:03.063,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,7.0
+Piton - filosofo - part 2,Memes,00:00:03.063,00:00:06.125,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,7.0
+Piton - filosofo - part 3,Memes,00:00:06.125,00:00:09.188,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,7.0
 Piton - filosofo - part 4,Memes,00:00:09.188,00:00:12.251,sounds/Memes/Piton - filosofo.mp3,Piton - filosofo,7.0
 Por 8 Mil Eu Compro Uma Falcon,Memes,00:00:00.000,00:00:08.822,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,,-6.0
-Por 8 Mil Eu Compro Uma Falcon - part 1,Memes,00:00:00.000,00:00:02.205,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-5.1
-Por 8 Mil Eu Compro Uma Falcon - part 2,Memes,00:00:02.205,00:00:04.411,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-5.5
+Por 8 Mil Eu Compro Uma Falcon - part 1,Memes,00:00:00.000,00:00:02.205,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-6.0
+Por 8 Mil Eu Compro Uma Falcon - part 2,Memes,00:00:02.205,00:00:04.411,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-6.0
 Por 8 Mil Eu Compro Uma Falcon - part 3,Memes,00:00:04.411,00:00:06.616,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-6.0
 Por 8 Mil Eu Compro Uma Falcon - part 4,Memes,00:00:06.616,00:00:08.822,sounds/Memes/Por 8 Mil Eu Compro Uma Falcon.mp3,Por 8 Mil Eu Compro Uma Falcon,-6.0
+Quem é o Admininastro,Memes,00:00:00.000,00:00:25.913,sounds/Memes/Quem é o Admininastro.mp3,,-4.6
+Quem é o Admininastro - part 1,Memes,00:00:00.000,00:00:06.478,sounds/Memes/Quem é o Admininastro.mp3,Quem é o Admininastro,-4.6
+Quem é o Admininastro - part 2,Memes,00:00:06.478,00:00:12.957,sounds/Memes/Quem é o Admininastro.mp3,Quem é o Admininastro,-4.6
+Quem é o Admininastro - part 3,Memes,00:00:12.957,00:00:19.435,sounds/Memes/Quem é o Admininastro.mp3,Quem é o Admininastro,-4.6
+Quem é o Admininastro - part 4,Memes,00:00:19.435,00:00:25.913,sounds/Memes/Quem é o Admininastro.mp3,Quem é o Admininastro,-4.6
 Quero Cafe,Memes,00:00:00.000,00:00:06.139,sounds/Memes/Quero Cafe.mp3,,-6.4
 Quero Cafe - part 1,Memes,00:00:00.000,00:00:01.535,sounds/Memes/Quero Cafe.mp3,Quero Cafe,-6.4
-Quero Cafe - part 2,Memes,00:00:01.535,00:00:03.070,sounds/Memes/Quero Cafe.mp3,Quero Cafe,-6.5
+Quero Cafe - part 2,Memes,00:00:01.535,00:00:03.070,sounds/Memes/Quero Cafe.mp3,Quero Cafe,-6.4
 Quero Cafe - part 3,Memes,00:00:03.070,00:00:04.604,sounds/Memes/Quero Cafe.mp3,Quero Cafe,-6.4
 Quero Cafe - part 4,Memes,00:00:04.604,00:00:06.139,sounds/Memes/Quero Cafe.mp3,Quero Cafe,-6.4
+Sai Da Frente Satanás,Memes,00:00:00.000,00:00:06.177,sounds/Memes/Sai Da Frente Satanás.mp3,,-1.1
+Sai Da Frente Satanás - part 1,Memes,00:00:00.000,00:00:01.544,sounds/Memes/Sai Da Frente Satanás.mp3,Sai Da Frente Satanás,-1.1
+Sai Da Frente Satanás - part 2,Memes,00:00:01.544,00:00:03.088,sounds/Memes/Sai Da Frente Satanás.mp3,Sai Da Frente Satanás,-1.1
+Sai Da Frente Satanás - part 3,Memes,00:00:03.088,00:00:04.633,sounds/Memes/Sai Da Frente Satanás.mp3,Sai Da Frente Satanás,-1.1
+Sai Da Frente Satanás - part 4,Memes,00:00:04.633,00:00:06.177,sounds/Memes/Sai Da Frente Satanás.mp3,Sai Da Frente Satanás,-1.1
 Sanduiche-Iche,Memes,00:00:00.000,00:00:01.674,sounds/Memes/Sanduiche-Iche.mp3,,7.0
 Sanduiche-Iche - part 1,Memes,00:00:00.000,00:00:00.418,sounds/Memes/Sanduiche-Iche.mp3,Sanduiche-Iche,7.0
 Sanduiche-Iche - part 2,Memes,00:00:00.418,00:00:00.837,sounds/Memes/Sanduiche-Iche.mp3,Sanduiche-Iche,7.0
 Sanduiche-Iche - part 3,Memes,00:00:00.837,00:00:01.256,sounds/Memes/Sanduiche-Iche.mp3,Sanduiche-Iche,7.0
 Sanduiche-Iche - part 4,Memes,00:00:01.256,00:00:01.674,sounds/Memes/Sanduiche-Iche.mp3,Sanduiche-Iche,7.0
 Serjao - Matador De Onca,Memes,00:00:00.000,00:00:15.456,sounds/Memes/Serjao - Matador De Onca.mp3,,-0.9
-Serjao - Matador De Onca - part 1,Memes,00:00:00.000,00:00:03.864,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-0.3
-Serjao - Matador De Onca - part 2,Memes,00:00:03.864,00:00:07.728,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-1.3
-Serjao - Matador De Onca - part 3,Memes,00:00:07.728,00:00:11.592,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-1.1
+Serjao - Matador De Onca - part 1,Memes,00:00:00.000,00:00:03.864,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-0.9
+Serjao - Matador De Onca - part 2,Memes,00:00:03.864,00:00:07.728,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-0.9
+Serjao - Matador De Onca - part 3,Memes,00:00:07.728,00:00:11.592,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-0.9
 Serjao - Matador De Onca - part 4,Memes,00:00:11.592,00:00:15.456,sounds/Memes/Serjao - Matador De Onca.mp3,Serjao - Matador De Onca,-0.9
 Smzinho - Motivacional,Memes,00:00:00.000,00:00:50.112,sounds/Memes/Smzinho - Motivacional.mp3,,1.9
-Smzinho - Motivacional - part 1,Memes,00:00:00.000,00:00:12.528,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,3.5
-Smzinho - Motivacional - part 2,Memes,00:00:12.528,00:00:25.056,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,2.5
-Smzinho - Motivacional - part 3,Memes,00:00:25.056,00:00:37.584,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,1.8
+Smzinho - Motivacional - part 1,Memes,00:00:00.000,00:00:12.528,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,1.9
+Smzinho - Motivacional - part 2,Memes,00:00:12.528,00:00:25.056,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,1.9
+Smzinho - Motivacional - part 3,Memes,00:00:25.056,00:00:37.584,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,1.9
 Smzinho - Motivacional - part 4,Memes,00:00:37.584,00:00:50.112,sounds/Memes/Smzinho - Motivacional.mp3,Smzinho - Motivacional,1.9
+São Tantas Irregularidades Encontradas,Memes,00:00:00.000,00:00:09.915,sounds/Memes/São Tantas Irregularidades Encontradas.mp3,,6.3
+São Tantas Irregularidades Encontradas - part 1,Memes,00:00:00.000,00:00:02.479,sounds/Memes/São Tantas Irregularidades Encontradas.mp3,São Tantas Irregularidades Encontradas,6.3
+São Tantas Irregularidades Encontradas - part 2,Memes,00:00:02.479,00:00:04.957,sounds/Memes/São Tantas Irregularidades Encontradas.mp3,São Tantas Irregularidades Encontradas,6.3
+São Tantas Irregularidades Encontradas - part 3,Memes,00:00:04.957,00:00:07.436,sounds/Memes/São Tantas Irregularidades Encontradas.mp3,São Tantas Irregularidades Encontradas,6.3
+São Tantas Irregularidades Encontradas - part 4,Memes,00:00:07.436,00:00:09.915,sounds/Memes/São Tantas Irregularidades Encontradas.mp3,São Tantas Irregularidades Encontradas,6.3
 Tai Lung - Como Nao Posso,Memes,00:00:00.000,00:00:26.525,sounds/Memes/Tai Lung - Como Nao Posso.mp3,,2.2
-Tai Lung - Como Nao Posso - part 1,Memes,00:00:00.000,00:00:06.631,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.4
-Tai Lung - Como Nao Posso - part 2,Memes,00:00:06.631,00:00:13.262,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.3
-Tai Lung - Como Nao Posso - part 3,Memes,00:00:13.262,00:00:19.894,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.6
+Tai Lung - Como Nao Posso - part 1,Memes,00:00:00.000,00:00:06.631,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.2
+Tai Lung - Como Nao Posso - part 2,Memes,00:00:06.631,00:00:13.262,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.2
+Tai Lung - Como Nao Posso - part 3,Memes,00:00:13.262,00:00:19.894,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.2
 Tai Lung - Como Nao Posso - part 4,Memes,00:00:19.894,00:00:26.525,sounds/Memes/Tai Lung - Como Nao Posso.mp3,Tai Lung - Como Nao Posso,2.2
-Tecnológia,Memes,00:00:00.000,00:00:12.074,sounds/Memes/Tecnológia.mp3,,-1.3
-Tecnológia - part 1,Memes,00:00:00.000,00:00:03.018,sounds/Memes/Tecnológia.mp3,Tecnológia,0.6
-Tecnológia - part 2,Memes,00:00:03.018,00:00:06.037,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.5
-Tecnológia - part 3,Memes,00:00:06.037,00:00:09.056,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.3
-Tecnológia - part 4,Memes,00:00:09.056,00:00:12.074,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.3
+Tecnológia,Memes,00:00:00.000,00:00:07.126,sounds/Memes/Tecnológia.mp3,,-1.5
+Tecnológia - part 1,Memes,00:00:00.000,00:00:01.782,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.5
+Tecnológia - part 2,Memes,00:00:01.782,00:00:03.563,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.5
+Tecnológia - part 3,Memes,00:00:03.563,00:00:05.345,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.5
+Tecnológia - part 4,Memes,00:00:05.345,00:00:07.126,sounds/Memes/Tecnológia.mp3,Tecnológia,-1.5
 This Manuevre Is Gonna Cost Us 51Y,Memes,00:00:00.000,00:00:03.976,sounds/Memes/This Manuevre Is Gonna Cost Us 51Y.mp3,,4.1
-This Manuevre Is Gonna Cost Us 51Y - word 1,Memes,00:00:00.300,00:00:00.880,sounds/Memes/This Manuevre Is Gonna Cost Us 51Y.mp3,This Manuevre Is Gonna Cost Us 51Y,4.5
+This Manuevre Is Gonna Cost Us 51Y - word 1,Memes,00:00:00.300,00:00:00.880,sounds/Memes/This Manuevre Is Gonna Cost Us 51Y.mp3,This Manuevre Is Gonna Cost Us 51Y,4.1
 This Manuevre Is Gonna Cost Us 51Y - word 2,Memes,00:00:00.920,00:00:01.160,sounds/Memes/This Manuevre Is Gonna Cost Us 51Y.mp3,This Manuevre Is Gonna Cost Us 51Y,4.1
 This Manuevre Is Gonna Cost Us 51Y - word 3,Memes,00:00:01.260,00:00:03.976,sounds/Memes/This Manuevre Is Gonna Cost Us 51Y.mp3,This Manuevre Is Gonna Cost Us 51Y,4.1
-Vamos Usar Droga Desgracaaaa,Memes,00:00:00.000,00:00:04.886,sounds/Memes/Vamos Usar Droga Desgracaaaa.mp3,,-10.1
+Tupirani - Amaldiçoo o Rio De Janeiro,Memes,00:00:00.000,00:00:03.547,sounds/Memes/Tupirani - Amaldiçoo o Rio De Janeiro.mp3,,7.6
+Tupirani - Maldito o Detran,Memes,00:00:00.000,00:00:04.442,sounds/Memes/Tupirani - Maldito o Detran.mp3,,0.5
+Tupirani - Morte Ao STF,Memes,00:00:00.000,00:00:02.051,sounds/Memes/Tupirani - Morte Ao STF.mp3,,12.0
+Tupirani - Morte Ao STF - word 1,Memes,00:00:00.060,00:00:01.640,sounds/Memes/Tupirani - Morte Ao STF.mp3,Tupirani - Morte Ao STF,12.0
+Tupirani - Morte Ao STF - word 2,Memes,00:00:01.680,00:00:02.051,sounds/Memes/Tupirani - Morte Ao STF.mp3,Tupirani - Morte Ao STF,12.0
+Tupirani - Que o Prédio Da OAB Pegue Fogo,Memes,00:00:00.000,00:00:02.911,sounds/Memes/Tupirani - Que o Prédio Da OAB Pegue Fogo.mp3,,-5.4
+Vamos Usar Droga Desgraca,Memes,00:00:00.000,00:00:04.886,sounds/Memes/Vamos Usar Droga Desgraca.mp3,,-10.1
 Vinheta - Faz o L,Memes,00:00:00.000,00:00:04.017,sounds/Memes/Vinheta - Faz o L.mp3,,-3.5
-Vinheta - Faz o L - word 1,Memes,00:00:00.300,00:00:00.980,sounds/Memes/Vinheta - Faz o L.mp3,Vinheta - Faz o L,-3.2
+Vinheta - Faz o L - word 1,Memes,00:00:00.300,00:00:00.980,sounds/Memes/Vinheta - Faz o L.mp3,Vinheta - Faz o L,-3.5
 Vinheta - Faz o L - word 2,Memes,00:00:01.040,00:00:03.860,sounds/Memes/Vinheta - Faz o L.mp3,Vinheta - Faz o L,-3.5
 Vou Chegar Igual o Taz Mania,Memes,00:00:00.000,00:00:10.240,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,,-9.9
-Vou Chegar Igual o Taz Mania - part 1,Memes,00:00:00.000,00:00:02.560,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-10.5
-Vou Chegar Igual o Taz Mania - part 2,Memes,00:00:02.560,00:00:05.120,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-10.2
+Vou Chegar Igual o Taz Mania - part 1,Memes,00:00:00.000,00:00:02.560,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-9.9
+Vou Chegar Igual o Taz Mania - part 2,Memes,00:00:02.560,00:00:05.120,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-9.9
 Vou Chegar Igual o Taz Mania - part 3,Memes,00:00:05.120,00:00:07.680,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-9.9
 Vou Chegar Igual o Taz Mania - part 4,Memes,00:00:07.680,00:00:10.240,sounds/Memes/Vou Chegar Igual o Taz Mania.mp3,Vou Chegar Igual o Taz Mania,-9.9
 Vou te Comer,Memes,00:00:00.000,00:00:08.647,sounds/Memes/Vou te Comer.mp3,,-0.7
-Vou te Comer - part 1,Memes,00:00:00.000,00:00:02.162,sounds/Memes/Vou te Comer.mp3,Vou te Comer,0.9
-Vou te Comer - part 2,Memes,00:00:02.162,00:00:04.324,sounds/Memes/Vou te Comer.mp3,Vou te Comer,-0.0
+Vou te Comer - part 1,Memes,00:00:00.000,00:00:02.162,sounds/Memes/Vou te Comer.mp3,Vou te Comer,-0.7
+Vou te Comer - part 2,Memes,00:00:02.162,00:00:04.324,sounds/Memes/Vou te Comer.mp3,Vou te Comer,-0.7
 Vou te Comer - part 3,Memes,00:00:04.324,00:00:06.485,sounds/Memes/Vou te Comer.mp3,Vou te Comer,-0.7
 Vou te Comer - part 4,Memes,00:00:06.485,00:00:08.647,sounds/Memes/Vou te Comer.mp3,Vou te Comer,-0.7
 Xaropinho - Rapaiz,Memes,00:00:00.000,00:00:01.985,sounds/Memes/Xaropinho - Rapaiz.mp3,,-0.5
@@ -232,60 +273,55 @@ Xaropinho - Rapaiz - part 1,Memes,00:00:00.000,00:00:00.496,sounds/Memes/Xaropin
 Xaropinho - Rapaiz - part 2,Memes,00:00:00.496,00:00:00.993,sounds/Memes/Xaropinho - Rapaiz.mp3,Xaropinho - Rapaiz,-0.5
 Xaropinho - Rapaiz - part 3,Memes,00:00:00.993,00:00:01.489,sounds/Memes/Xaropinho - Rapaiz.mp3,Xaropinho - Rapaiz,-0.5
 Xaropinho - Rapaiz - part 4,Memes,00:00:01.489,00:00:01.985,sounds/Memes/Xaropinho - Rapaiz.mp3,Xaropinho - Rapaiz,-0.5
-Bom Dia O Sol Ja Nasceu na Fazendinha,Musicas,00:00:00.000,00:00:12.024,sounds/Musicas/Bom Dia O Sol Ja Nasceu na Fazendinha.mp3,,-0.2
-Bom Dia O Sol Ja Nasceu na Fazendinha - part 1,Musicas,00:00:00.000,00:00:03.006,sounds/Musicas/Bom Dia O Sol Ja Nasceu na Fazendinha.mp3,Bom Dia O Sol Ja Nasceu na Fazendinha,-0.3
-Bom Dia O Sol Ja Nasceu na Fazendinha - part 2,Musicas,00:00:03.006,00:00:06.012,sounds/Musicas/Bom Dia O Sol Ja Nasceu na Fazendinha.mp3,Bom Dia O Sol Ja Nasceu na Fazendinha,-0.1
-Bom Dia O Sol Ja Nasceu na Fazendinha - part 3,Musicas,00:00:06.012,00:00:09.018,sounds/Musicas/Bom Dia O Sol Ja Nasceu na Fazendinha.mp3,Bom Dia O Sol Ja Nasceu na Fazendinha,-0.2
-Bom Dia O Sol Ja Nasceu na Fazendinha - part 4,Musicas,00:00:09.018,00:00:12.024,sounds/Musicas/Bom Dia O Sol Ja Nasceu na Fazendinha.mp3,Bom Dia O Sol Ja Nasceu na Fazendinha,-0.2
-Careless Whisper,Musicas,00:00:00.000,00:00:14.106,sounds/Musicas/Careless Whisper.mp3,,-1.8
-Careless Whisper - part 1,Musicas,00:00:00.000,00:00:03.526,sounds/Musicas/Careless Whisper.mp3,Careless Whisper,-1.8
-Careless Whisper - part 2,Musicas,00:00:03.526,00:00:07.053,sounds/Musicas/Careless Whisper.mp3,Careless Whisper,-1.6
-Careless Whisper - part 3,Musicas,00:00:07.053,00:00:10.579,sounds/Musicas/Careless Whisper.mp3,Careless Whisper,-1.6
-Careless Whisper - part 4,Musicas,00:00:10.579,00:00:14.106,sounds/Musicas/Careless Whisper.mp3,Careless Whisper,-1.8
-Russian Anthem,Musicas,00:00:00.000,00:00:13.061,sounds/Musicas/Russian Anthem.mp3,,6.9
-Russian Anthem - part 1,Musicas,00:00:00.000,00:00:03.265,sounds/Musicas/Russian Anthem.mp3,Russian Anthem,6.8
-Russian Anthem - part 2,Musicas,00:00:03.265,00:00:06.530,sounds/Musicas/Russian Anthem.mp3,Russian Anthem,7.8
-Russian Anthem - part 3,Musicas,00:00:06.530,00:00:09.796,sounds/Musicas/Russian Anthem.mp3,Russian Anthem,7.4
-Russian Anthem - part 4,Musicas,00:00:09.796,00:00:13.061,sounds/Musicas/Russian Anthem.mp3,Russian Anthem,6.9
-Song - Run,Musicas,00:00:00.000,00:00:08.256,sounds/Musicas/Song - Run.mp3,,-9.2
-Song - Run - part 1,Musicas,00:00:00.000,00:00:02.064,sounds/Musicas/Song - Run.mp3,Song - Run,-8.6
-Song - Run - part 2,Musicas,00:00:02.064,00:00:04.128,sounds/Musicas/Song - Run.mp3,Song - Run,-8.9
-Song - Run - part 3,Musicas,00:00:04.128,00:00:06.192,sounds/Musicas/Song - Run.mp3,Song - Run,-9.2
-Song - Run - part 4,Musicas,00:00:06.192,00:00:08.256,sounds/Musicas/Song - Run.mp3,Song - Run,-9.2
-Tokio Drift,Musicas,00:00:00.000,00:00:06.766,sounds/Musicas/Tokio Drift.mp3,,-2.1
-Tokio Drift - part 1,Musicas,00:00:00.000,00:00:01.692,sounds/Musicas/Tokio Drift.mp3,Tokio Drift,2.1
-Tokio Drift - part 2,Musicas,00:00:01.692,00:00:03.383,sounds/Musicas/Tokio Drift.mp3,Tokio Drift,-0.8
-Tokio Drift - part 3,Musicas,00:00:03.383,00:00:05.075,sounds/Musicas/Tokio Drift.mp3,Tokio Drift,-2.1
-Tokio Drift - part 4,Musicas,00:00:05.075,00:00:06.766,sounds/Musicas/Tokio Drift.mp3,Tokio Drift,-2.1
-Uma Rapariga É Bom,Musicas,00:00:00.000,00:00:17.816,sounds/Musicas/Uma Rapariga É Bom.mp3,,-1.6
-Uma Rapariga É Bom - part 1,Musicas,00:00:00.000,00:00:04.454,sounds/Musicas/Uma Rapariga É Bom.mp3,Uma Rapariga É Bom,-1.7
-Uma Rapariga É Bom - part 2,Musicas,00:00:04.454,00:00:08.908,sounds/Musicas/Uma Rapariga É Bom.mp3,Uma Rapariga É Bom,-1.7
-Uma Rapariga É Bom - part 3,Musicas,00:00:08.908,00:00:13.362,sounds/Musicas/Uma Rapariga É Bom.mp3,Uma Rapariga É Bom,-1.6
-Uma Rapariga É Bom - part 4,Musicas,00:00:13.362,00:00:17.816,sounds/Musicas/Uma Rapariga É Bom.mp3,Uma Rapariga É Bom,-1.6
-Welcome To The Mato,Musicas,00:00:00.000,00:00:15.229,sounds/Musicas/Welcome To The Mato.mp3,,-8.5
-Welcome To The Mato - part 1,Musicas,00:00:00.000,00:00:03.807,sounds/Musicas/Welcome To The Mato.mp3,Welcome To The Mato,-7.8
-Welcome To The Mato - part 2,Musicas,00:00:03.807,00:00:07.614,sounds/Musicas/Welcome To The Mato.mp3,Welcome To The Mato,-8.1
-Welcome To The Mato - part 3,Musicas,00:00:07.614,00:00:11.422,sounds/Musicas/Welcome To The Mato.mp3,Welcome To The Mato,-8.4
-Welcome To The Mato - part 4,Musicas,00:00:11.422,00:00:15.229,sounds/Musicas/Welcome To The Mato.mp3,Welcome To The Mato,-8.5
-Winx Funk,Musicas,00:00:00.000,00:00:19.174,sounds/Musicas/Winx Funk.mp3,,-8.0
-Winx Funk - part 1,Musicas,00:00:00.000,00:00:04.793,sounds/Musicas/Winx Funk.mp3,Winx Funk,-7.3
-Winx Funk - part 2,Musicas,00:00:04.793,00:00:09.587,sounds/Musicas/Winx Funk.mp3,Winx Funk,-7.7
-Winx Funk - part 3,Musicas,00:00:09.587,00:00:14.380,sounds/Musicas/Winx Funk.mp3,Winx Funk,-7.8
-Winx Funk - part 4,Musicas,00:00:14.380,00:00:19.174,sounds/Musicas/Winx Funk.mp3,Winx Funk,-8.0
-tu-tu-tu-du-max-verstappen,Musicas,00:00:00.000,00:00:07.654,sounds/Musicas/tu-tu-tu-du-max-verstappen.mp3,,-3.0
-tu-tu-tu-du-max-verstappen - part 1,Musicas,00:00:00.000,00:00:01.913,sounds/Musicas/tu-tu-tu-du-max-verstappen.mp3,tu-tu-tu-du-max-verstappen,-3.3
-tu-tu-tu-du-max-verstappen - part 2,Musicas,00:00:01.913,00:00:03.827,sounds/Musicas/tu-tu-tu-du-max-verstappen.mp3,tu-tu-tu-du-max-verstappen,-3.1
-tu-tu-tu-du-max-verstappen - part 3,Musicas,00:00:03.827,00:00:05.740,sounds/Musicas/tu-tu-tu-du-max-verstappen.mp3,tu-tu-tu-du-max-verstappen,-3.0
-tu-tu-tu-du-max-verstappen - part 4,Musicas,00:00:05.740,00:00:07.654,sounds/Musicas/tu-tu-tu-du-max-verstappen.mp3,tu-tu-tu-du-max-verstappen,-3.0
+Musica - Careless Whisper,Musicas,00:00:00.000,00:00:14.106,sounds/Musicas/Musica - Careless Whisper.mp3,,-1.8
+Musica - Careless Whisper - part 1,Musicas,00:00:00.000,00:00:03.526,sounds/Musicas/Musica - Careless Whisper.mp3,Musica - Careless Whisper,-1.8
+Musica - Careless Whisper - part 2,Musicas,00:00:03.526,00:00:07.053,sounds/Musicas/Musica - Careless Whisper.mp3,Musica - Careless Whisper,-1.8
+Musica - Careless Whisper - part 3,Musicas,00:00:07.053,00:00:10.579,sounds/Musicas/Musica - Careless Whisper.mp3,Musica - Careless Whisper,-1.8
+Musica - Careless Whisper - part 4,Musicas,00:00:10.579,00:00:14.106,sounds/Musicas/Musica - Careless Whisper.mp3,Musica - Careless Whisper,-1.8
+Musica - O Sol Ja Nasceu na Fazendinha,Musicas,00:00:00.000,00:00:12.024,sounds/Musicas/Musica - O Sol Ja Nasceu na Fazendinha.mp3,,-0.2
+Musica - O Sol Ja Nasceu na Fazendinha - part 1,Musicas,00:00:00.000,00:00:03.006,sounds/Musicas/Musica - O Sol Ja Nasceu na Fazendinha.mp3,Musica - O Sol Ja Nasceu na Fazendinha,-0.2
+Musica - O Sol Ja Nasceu na Fazendinha - part 2,Musicas,00:00:03.006,00:00:06.012,sounds/Musicas/Musica - O Sol Ja Nasceu na Fazendinha.mp3,Musica - O Sol Ja Nasceu na Fazendinha,-0.2
+Musica - O Sol Ja Nasceu na Fazendinha - part 3,Musicas,00:00:06.012,00:00:09.018,sounds/Musicas/Musica - O Sol Ja Nasceu na Fazendinha.mp3,Musica - O Sol Ja Nasceu na Fazendinha,-0.2
+Musica - O Sol Ja Nasceu na Fazendinha - part 4,Musicas,00:00:09.018,00:00:12.024,sounds/Musicas/Musica - O Sol Ja Nasceu na Fazendinha.mp3,Musica - O Sol Ja Nasceu na Fazendinha,-0.2
+Musica - Pã Pã Pã Pã Max Verstappen,Musicas,00:00:00.000,00:00:07.654,sounds/Musicas/Musica - Pã Pã Pã Pã Max Verstappen.mp3,,-3.0
+Musica - Pã Pã Pã Pã Max Verstappen - part 1,Musicas,00:00:00.000,00:00:01.913,sounds/Musicas/Musica - Pã Pã Pã Pã Max Verstappen.mp3,Musica - Pã Pã Pã Pã Max Verstappen,-3.0
+Musica - Pã Pã Pã Pã Max Verstappen - part 2,Musicas,00:00:01.913,00:00:03.827,sounds/Musicas/Musica - Pã Pã Pã Pã Max Verstappen.mp3,Musica - Pã Pã Pã Pã Max Verstappen,-3.0
+Musica - Pã Pã Pã Pã Max Verstappen - part 3,Musicas,00:00:03.827,00:00:05.740,sounds/Musicas/Musica - Pã Pã Pã Pã Max Verstappen.mp3,Musica - Pã Pã Pã Pã Max Verstappen,-3.0
+Musica - Pã Pã Pã Pã Max Verstappen - part 4,Musicas,00:00:05.740,00:00:07.654,sounds/Musicas/Musica - Pã Pã Pã Pã Max Verstappen.mp3,Musica - Pã Pã Pã Pã Max Verstappen,-3.0
+Musica - Run,Musicas,00:00:00.000,00:00:08.256,sounds/Musicas/Musica - Run.mp3,,-9.2
+Musica - Run - part 1,Musicas,00:00:00.000,00:00:02.064,sounds/Musicas/Musica - Run.mp3,Musica - Run,-9.2
+Musica - Run - part 2,Musicas,00:00:02.064,00:00:04.128,sounds/Musicas/Musica - Run.mp3,Musica - Run,-9.2
+Musica - Run - part 3,Musicas,00:00:04.128,00:00:06.192,sounds/Musicas/Musica - Run.mp3,Musica - Run,-9.2
+Musica - Run - part 4,Musicas,00:00:06.192,00:00:08.256,sounds/Musicas/Musica - Run.mp3,Musica - Run,-9.2
+Musica - Russian Anthem,Musicas,00:00:00.000,00:00:13.061,sounds/Musicas/Musica - Russian Anthem.mp3,,6.9
+Musica - Russian Anthem - part 1,Musicas,00:00:00.000,00:00:03.265,sounds/Musicas/Musica - Russian Anthem.mp3,Musica - Russian Anthem,6.9
+Musica - Russian Anthem - part 2,Musicas,00:00:03.265,00:00:06.530,sounds/Musicas/Musica - Russian Anthem.mp3,Musica - Russian Anthem,6.9
+Musica - Russian Anthem - part 3,Musicas,00:00:06.530,00:00:09.796,sounds/Musicas/Musica - Russian Anthem.mp3,Musica - Russian Anthem,6.9
+Musica - Russian Anthem - part 4,Musicas,00:00:09.796,00:00:13.061,sounds/Musicas/Musica - Russian Anthem.mp3,Musica - Russian Anthem,6.9
+Musica - Tokio Drift,Musicas,00:00:00.000,00:00:06.766,sounds/Musicas/Musica - Tokio Drift.mp3,,-2.1
+Musica - Tokio Drift - part 1,Musicas,00:00:00.000,00:00:01.692,sounds/Musicas/Musica - Tokio Drift.mp3,Musica - Tokio Drift,-2.1
+Musica - Tokio Drift - part 2,Musicas,00:00:01.692,00:00:03.383,sounds/Musicas/Musica - Tokio Drift.mp3,Musica - Tokio Drift,-2.1
+Musica - Tokio Drift - part 3,Musicas,00:00:03.383,00:00:05.075,sounds/Musicas/Musica - Tokio Drift.mp3,Musica - Tokio Drift,-2.1
+Musica - Tokio Drift - part 4,Musicas,00:00:05.075,00:00:06.766,sounds/Musicas/Musica - Tokio Drift.mp3,Musica - Tokio Drift,-2.1
+Musica - Uma Rapariga É Bom,Musicas,00:00:00.000,00:00:17.816,sounds/Musicas/Musica - Uma Rapariga É Bom.mp3,,-1.6
+Musica - Uma Rapariga É Bom - part 1,Musicas,00:00:00.000,00:00:04.454,sounds/Musicas/Musica - Uma Rapariga É Bom.mp3,Musica - Uma Rapariga É Bom,-1.6
+Musica - Uma Rapariga É Bom - part 2,Musicas,00:00:04.454,00:00:08.908,sounds/Musicas/Musica - Uma Rapariga É Bom.mp3,Musica - Uma Rapariga É Bom,-1.6
+Musica - Uma Rapariga É Bom - part 3,Musicas,00:00:08.908,00:00:13.362,sounds/Musicas/Musica - Uma Rapariga É Bom.mp3,Musica - Uma Rapariga É Bom,-1.6
+Musica - Uma Rapariga É Bom - part 4,Musicas,00:00:13.362,00:00:17.816,sounds/Musicas/Musica - Uma Rapariga É Bom.mp3,Musica - Uma Rapariga É Bom,-1.6
+Musica - Welcome To The Mato,Musicas,00:00:00.000,00:00:15.229,sounds/Musicas/Musica - Welcome To The Mato.mp3,,-8.5
+Musica - Welcome To The Mato - part 1,Musicas,00:00:00.000,00:00:03.807,sounds/Musicas/Musica - Welcome To The Mato.mp3,Musica - Welcome To The Mato,-8.5
+Musica - Welcome To The Mato - part 2,Musicas,00:00:03.807,00:00:07.614,sounds/Musicas/Musica - Welcome To The Mato.mp3,Musica - Welcome To The Mato,-8.5
+Musica - Welcome To The Mato - part 3,Musicas,00:00:07.614,00:00:11.422,sounds/Musicas/Musica - Welcome To The Mato.mp3,Musica - Welcome To The Mato,-8.5
+Musica - Welcome To The Mato - part 4,Musicas,00:00:11.422,00:00:15.229,sounds/Musicas/Musica - Welcome To The Mato.mp3,Musica - Welcome To The Mato,-8.5
+Musica - Winx Funk,Musicas,00:00:00.000,00:00:19.174,sounds/Musicas/Musica - Winx Funk.mp3,,-8.0
+Musica - Winx Funk - part 1,Musicas,00:00:00.000,00:00:04.793,sounds/Musicas/Musica - Winx Funk.mp3,Musica - Winx Funk,-8.0
+Musica - Winx Funk - part 2,Musicas,00:00:04.793,00:00:09.587,sounds/Musicas/Musica - Winx Funk.mp3,Musica - Winx Funk,-8.0
+Musica - Winx Funk - part 3,Musicas,00:00:09.587,00:00:14.380,sounds/Musicas/Musica - Winx Funk.mp3,Musica - Winx Funk,-8.0
+Musica - Winx Funk - part 4,Musicas,00:00:14.380,00:00:19.174,sounds/Musicas/Musica - Winx Funk.mp3,Musica - Winx Funk,-8.0
 2 Horas Depois,Roast,00:00:00.000,00:00:02.026,sounds/Roast/2 Horas Depois.mp3,,-6.2
-BYD,Roast,00:00:00.000,00:00:12.981,sounds/Roast/BYD.mp3,,-1.4
-BYD - part 1,Roast,00:00:00.000,00:00:03.245,sounds/Roast/BYD.mp3,BYD,-1.4
-BYD - part 2,Roast,00:00:03.245,00:00:06.490,sounds/Roast/BYD.mp3,BYD,-1.5
-BYD - part 3,Roast,00:00:06.490,00:00:09.736,sounds/Roast/BYD.mp3,BYD,-1.4
-BYD - part 4,Roast,00:00:09.736,00:00:12.981,sounds/Roast/BYD.mp3,BYD,-1.4
 Cala Sua Boca e Não Fala Comigo,Roast,00:00:00.000,00:00:08.751,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,,-8.1
-Cala Sua Boca e Não Fala Comigo - part 1,Roast,00:00:00.000,00:00:02.188,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-7.1
-Cala Sua Boca e Não Fala Comigo - part 2,Roast,00:00:02.188,00:00:04.375,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-7.6
+Cala Sua Boca e Não Fala Comigo - part 1,Roast,00:00:00.000,00:00:02.188,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-8.1
+Cala Sua Boca e Não Fala Comigo - part 2,Roast,00:00:02.188,00:00:04.375,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-8.1
 Cala Sua Boca e Não Fala Comigo - part 3,Roast,00:00:04.375,00:00:06.563,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-8.1
 Cala Sua Boca e Não Fala Comigo - part 4,Roast,00:00:06.563,00:00:08.751,sounds/Roast/Cala Sua Boca e Não Fala Comigo.mp3,Cala Sua Boca e Não Fala Comigo,-8.1
 Cala a Boca Bando de Corno,Roast,00:00:00.000,00:00:02.436,sounds/Roast/Cala a Boca Bando de Corno.mp3,,-11.6
@@ -294,13 +330,13 @@ Corte Rapido Tramontina - word 1,Roast,00:00:00.020,00:00:01.300,sounds/Roast/Co
 Corte Rapido Tramontina - word 2,Roast,00:00:01.360,00:00:01.840,sounds/Roast/Corte Rapido Tramontina.mp3,Corte Rapido Tramontina,-3.4
 Corte Rapido Tramontina - word 3,Roast,00:00:02.040,00:00:03.820,sounds/Roast/Corte Rapido Tramontina.mp3,Corte Rapido Tramontina,-3.4
 Enfiou o Patati Patata no Cu,Roast,00:00:00.000,00:00:09.567,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,,-5.3
-Enfiou o Patati Patata no Cu - part 1,Roast,00:00:00.000,00:00:02.392,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.5
-Enfiou o Patati Patata no Cu - part 2,Roast,00:00:02.392,00:00:04.784,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.5
+Enfiou o Patati Patata no Cu - part 1,Roast,00:00:00.000,00:00:02.392,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.3
+Enfiou o Patati Patata no Cu - part 2,Roast,00:00:02.392,00:00:04.784,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.3
 Enfiou o Patati Patata no Cu - part 3,Roast,00:00:04.784,00:00:07.175,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.3
 Enfiou o Patati Patata no Cu - part 4,Roast,00:00:07.175,00:00:09.567,sounds/Roast/Enfiou o Patati Patata no Cu.mp3,Enfiou o Patati Patata no Cu,-5.3
 Eu Tenho Probleminha,Roast,00:00:00.000,00:00:07.067,sounds/Roast/Eu Tenho Probleminha.mp3,,10.6
-Eu Tenho Probleminha - part 1,Roast,00:00:00.000,00:00:01.767,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,9.8
-Eu Tenho Probleminha - part 2,Roast,00:00:01.767,00:00:03.534,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,10.1
+Eu Tenho Probleminha - part 1,Roast,00:00:00.000,00:00:01.767,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,10.6
+Eu Tenho Probleminha - part 2,Roast,00:00:01.767,00:00:03.534,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,10.6
 Eu Tenho Probleminha - part 3,Roast,00:00:03.534,00:00:05.300,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,10.6
 Eu Tenho Probleminha - part 4,Roast,00:00:05.300,00:00:07.067,sounds/Roast/Eu Tenho Probleminha.mp3,Eu Tenho Probleminha,10.6
 FDP Vc Pq Nao Trabalha,Roast,00:00:00.000,00:00:04.045,sounds/Roast/FDP Vc Pq Nao Trabalha.mp3,,-12.0
@@ -315,13 +351,16 @@ Faustão - Ce Vai Morrer - part 1,Roast,00:00:00.000,00:00:00.288,sounds/Roast/F
 Faustão - Ce Vai Morrer - part 2,Roast,00:00:00.288,00:00:00.577,sounds/Roast/Faustão - Ce Vai Morrer.mp3,Faustão - Ce Vai Morrer,4.0
 Faustão - Ce Vai Morrer - part 3,Roast,00:00:00.577,00:00:00.865,sounds/Roast/Faustão - Ce Vai Morrer.mp3,Faustão - Ce Vai Morrer,4.0
 Faustão - Ce Vai Morrer - part 4,Roast,00:00:00.865,00:00:01.153,sounds/Roast/Faustão - Ce Vai Morrer.mp3,Faustão - Ce Vai Morrer,4.0
+Ha! Gayyyy!,Roast,00:00:00.000,00:00:03.181,sounds/Roast/Ha! Gayyyy!.mp3,,1.3
+Ha! Gayyyy! - word 1,Roast,00:00:00.080,00:00:00.900,sounds/Roast/Ha! Gayyyy!.mp3,Ha! Gayyyy!,1.3
+Ha! Gayyyy! - word 2,Roast,00:00:01.040,00:00:03.040,sounds/Roast/Ha! Gayyyy!.mp3,Ha! Gayyyy!,1.3
 Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela,Roast,00:00:00.000,00:00:03.500,sounds/Roast/Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela.mp3,,5.2
 Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela - word 1,Roast,00:00:00.000,00:00:01.400,sounds/Roast/Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela.mp3,Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela,5.2
 Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela - word 2,Roast,00:00:01.480,00:00:02.000,sounds/Roast/Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela.mp3,Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela,5.2
 Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela - word 3,Roast,00:00:02.060,00:00:03.500,sounds/Roast/Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela.mp3,Ja Olhou Pra Alguem Oq Passa Na Cabeca Dela,5.2
 Lapada Seca Do Carai,Roast,00:00:00.000,00:00:06.648,sounds/Roast/Lapada Seca Do Carai.mp3,,-1.8
-Lapada Seca Do Carai - part 1,Roast,00:00:00.000,00:00:01.662,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-2.5
-Lapada Seca Do Carai - part 2,Roast,00:00:01.662,00:00:03.324,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-2.1
+Lapada Seca Do Carai - part 1,Roast,00:00:00.000,00:00:01.662,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-1.8
+Lapada Seca Do Carai - part 2,Roast,00:00:01.662,00:00:03.324,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-1.8
 Lapada Seca Do Carai - part 3,Roast,00:00:03.324,00:00:04.986,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-1.8
 Lapada Seca Do Carai - part 4,Roast,00:00:04.986,00:00:06.648,sounds/Roast/Lapada Seca Do Carai.mp3,Lapada Seca Do Carai,-1.8
 Lixo Lixo Super Lixo,Roast,00:00:00.000,00:00:04.139,sounds/Roast/Lixo Lixo Super Lixo.mp3,,12.0
@@ -332,9 +371,9 @@ Miranha - Quem Disse Que e Problema Meu,Roast,00:00:00.000,00:00:02.534,sounds/R
 Nao Sobrou Nada,Roast,00:00:00.000,00:00:03.189,sounds/Roast/Nao Sobrou Nada.mp3,,-11.9
 Quem Manda Nessa Porra Sou Eu,Roast,00:00:00.000,00:00:04.992,sounds/Roast/Quem Manda Nessa Porra Sou Eu.mp3,,0.4
 Quem Nao Tem As Manha Nao Entra Nao,Roast,00:00:00.000,00:00:17.110,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,,-3.4
-Quem Nao Tem As Manha Nao Entra Nao - part 1,Roast,00:00:00.000,00:00:04.277,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-3.8
-Quem Nao Tem As Manha Nao Entra Nao - part 2,Roast,00:00:04.277,00:00:08.555,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-2.9
-Quem Nao Tem As Manha Nao Entra Nao - part 3,Roast,00:00:08.555,00:00:12.832,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-4.1
+Quem Nao Tem As Manha Nao Entra Nao - part 1,Roast,00:00:00.000,00:00:04.277,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-3.4
+Quem Nao Tem As Manha Nao Entra Nao - part 2,Roast,00:00:04.277,00:00:08.555,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-3.4
+Quem Nao Tem As Manha Nao Entra Nao - part 3,Roast,00:00:08.555,00:00:12.832,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-3.4
 Quem Nao Tem As Manha Nao Entra Nao - part 4,Roast,00:00:12.832,00:00:17.110,sounds/Roast/Quem Nao Tem As Manha Nao Entra Nao.mp3,Quem Nao Tem As Manha Nao Entra Nao,-3.4
 Quem foi o filho da puta,Roast,00:00:00.000,00:00:02.273,sounds/Roast/Quem foi o filho da puta.mp3,,-2.0
 Remember we will be watching,Roast,00:00:00.000,00:00:04.481,sounds/Roast/Remember we will be watching.mp3,,5.3
@@ -342,9 +381,9 @@ Remember we will be watching - word 1,Roast,00:00:00.020,00:00:03.340,sounds/Roa
 Remember we will be watching - word 2,Roast,00:00:03.380,00:00:04.481,sounds/Roast/Remember we will be watching.mp3,Remember we will be watching,5.3
 Sena - Aqui é Democracia,Roast,00:00:00.000,00:00:02.242,sounds/Roast/Sena - Aqui é Democracia.mp3,,0.6
 Serviço de FDP,Roast,00:00:00.000,00:00:18.000,sounds/Roast/Serviço de FDP.mp3,,-0.4
-Serviço de FDP - part 1,Roast,00:00:00.000,00:00:04.500,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,0.2
-Serviço de FDP - part 2,Roast,00:00:04.500,00:00:09.000,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.7
-Serviço de FDP - part 3,Roast,00:00:09.000,00:00:13.500,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.5
+Serviço de FDP - part 1,Roast,00:00:00.000,00:00:04.500,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.4
+Serviço de FDP - part 2,Roast,00:00:04.500,00:00:09.000,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.4
+Serviço de FDP - part 3,Roast,00:00:09.000,00:00:13.500,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.4
 Serviço de FDP - part 4,Roast,00:00:13.500,00:00:18.000,sounds/Roast/Serviço de FDP.mp3,Serviço de FDP,-0.4
 Smzinho - Cala Boca Menino,Roast,00:00:00.000,00:00:01.248,sounds/Roast/Smzinho - Cala Boca Menino.mp3,,-9.4
 Smzinho - Cala Boca Menino - part 1,Roast,00:00:00.000,00:00:00.312,sounds/Roast/Smzinho - Cala Boca Menino.mp3,Smzinho - Cala Boca Menino,-9.4
@@ -352,15 +391,20 @@ Smzinho - Cala Boca Menino - part 2,Roast,00:00:00.312,00:00:00.624,sounds/Roast
 Smzinho - Cala Boca Menino - part 3,Roast,00:00:00.624,00:00:00.936,sounds/Roast/Smzinho - Cala Boca Menino.mp3,Smzinho - Cala Boca Menino,-9.4
 Smzinho - Cala Boca Menino - part 4,Roast,00:00:00.936,00:00:01.248,sounds/Roast/Smzinho - Cala Boca Menino.mp3,Smzinho - Cala Boca Menino,-9.4
 Ta Bom Vc Fala Demais,Roast,00:00:00.000,00:00:09.796,sounds/Roast/Ta Bom Vc Fala Demais.mp3,,-1.7
-Ta Bom Vc Fala Demais - part 1,Roast,00:00:00.000,00:00:02.449,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-1.1
-Ta Bom Vc Fala Demais - part 2,Roast,00:00:02.449,00:00:04.898,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-0.8
+Ta Bom Vc Fala Demais - part 1,Roast,00:00:00.000,00:00:02.449,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-1.7
+Ta Bom Vc Fala Demais - part 2,Roast,00:00:02.449,00:00:04.898,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-1.7
 Ta Bom Vc Fala Demais - part 3,Roast,00:00:04.898,00:00:07.347,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-1.7
 Ta Bom Vc Fala Demais - part 4,Roast,00:00:07.347,00:00:09.796,sounds/Roast/Ta Bom Vc Fala Demais.mp3,Ta Bom Vc Fala Demais,-1.7
 Voce Nao Tem Aura,Roast,00:00:00.000,00:00:16.908,sounds/Roast/Voce Nao Tem Aura.mp3,,1.9
-Voce Nao Tem Aura - part 1,Roast,00:00:00.000,00:00:04.227,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.8
-Voce Nao Tem Aura - part 2,Roast,00:00:04.227,00:00:08.454,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.7
-Voce Nao Tem Aura - part 3,Roast,00:00:08.454,00:00:12.681,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.7
+Voce Nao Tem Aura - part 1,Roast,00:00:00.000,00:00:04.227,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.9
+Voce Nao Tem Aura - part 2,Roast,00:00:04.227,00:00:08.454,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.9
+Voce Nao Tem Aura - part 3,Roast,00:00:08.454,00:00:12.681,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.9
 Voce Nao Tem Aura - part 4,Roast,00:00:12.681,00:00:16.908,sounds/Roast/Voce Nao Tem Aura.mp3,Voce Nao Tem Aura,1.9
+Você Degusta Pica,Roast,00:00:00.000,00:00:17.241,sounds/Roast/Você Degusta Pica.mp3,,-1.4
+Você Degusta Pica - part 1,Roast,00:00:00.000,00:00:04.310,sounds/Roast/Você Degusta Pica.mp3,Você Degusta Pica,-1.4
+Você Degusta Pica - part 2,Roast,00:00:04.310,00:00:08.620,sounds/Roast/Você Degusta Pica.mp3,Você Degusta Pica,-1.4
+Você Degusta Pica - part 3,Roast,00:00:08.620,00:00:12.931,sounds/Roast/Você Degusta Pica.mp3,Você Degusta Pica,-1.4
+Você Degusta Pica - part 4,Roast,00:00:12.931,00:00:17.241,sounds/Roast/Você Degusta Pica.mp3,Você Degusta Pica,-1.4
 Anime An,Sons,00:00:00.000,00:00:00.836,sounds/Sons/Anime An.mp3,,-6.5
 Anime An - part 1,Sons,00:00:00.000,00:00:00.418,sounds/Sons/Anime An.mp3,Anime An,-6.5
 Anime An - part 2,Sons,00:00:00.418,00:00:00.836,sounds/Sons/Anime An.mp3,Anime An,-6.5
@@ -386,8 +430,8 @@ Finish Him - part 3,Sons,00:00:00.817,00:00:01.225,sounds/Sons/Finish Him.mp3,Fi
 Finish Him - part 4,Sons,00:00:01.225,00:00:01.634,sounds/Sons/Finish Him.mp3,Finish Him,-0.2
 Flashbang,Sons,00:00:00.000,00:00:03.942,sounds/Sons/Flashbang.mp3,,-4.9
 Foguete Apito,Sons,00:00:00.000,00:00:07.015,sounds/Sons/Foguete Apito.mp3,,-5.9
-Foguete Apito - part 1,Sons,00:00:00.000,00:00:01.754,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-6.9
-Foguete Apito - part 2,Sons,00:00:01.754,00:00:03.507,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-6.5
+Foguete Apito - part 1,Sons,00:00:00.000,00:00:01.754,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-5.9
+Foguete Apito - part 2,Sons,00:00:01.754,00:00:03.507,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-5.9
 Foguete Apito - part 3,Sons,00:00:03.507,00:00:05.261,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-5.9
 Foguete Apito - part 4,Sons,00:00:05.261,00:00:07.015,sounds/Sons/Foguete Apito.mp3,Foguete Apito,-5.9
 Ifood,Sons,00:00:00.000,00:00:00.963,sounds/Sons/Ifood.mp3,,-4.9
@@ -396,8 +440,8 @@ Ifood - part 2,Sons,00:00:00.481,00:00:00.963,sounds/Sons/Ifood.mp3,Ifood,-4.9
 Metal Pipe,Sons,00:00:00.000,00:00:02.786,sounds/Sons/Metal Pipe.mp3,,-12.0
 Quest Update,Sons,00:00:00.000,00:00:04.825,sounds/Sons/Quest Update.mp3,,2.3
 Rei do Gado,Sons,00:00:00.000,00:00:08.006,sounds/Sons/Rei do Gado.mp3,,4.3
-Rei do Gado - part 1,Sons,00:00:00.000,00:00:02.002,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.2
-Rei do Gado - part 2,Sons,00:00:02.002,00:00:04.003,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.2
+Rei do Gado - part 1,Sons,00:00:00.000,00:00:02.002,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.3
+Rei do Gado - part 2,Sons,00:00:02.002,00:00:04.003,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.3
 Rei do Gado - part 3,Sons,00:00:04.003,00:00:06.005,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.3
 Rei do Gado - part 4,Sons,00:00:06.005,00:00:08.006,sounds/Sons/Rei do Gado.mp3,Rei do Gado,4.3
 Scary Cave,Sons,00:00:00.000,00:00:06.008,sounds/Sons/Scary Cave.mp3,,10.3
@@ -415,6 +459,11 @@ Siuuuuu - part 1,Sons,00:00:00.000,00:00:00.372,sounds/Sons/Siuuuuu.mp3,Siuuuuu,
 Siuuuuu - part 2,Sons,00:00:00.372,00:00:00.745,sounds/Sons/Siuuuuu.mp3,Siuuuuu,-6.4
 Siuuuuu - part 3,Sons,00:00:00.745,00:00:01.117,sounds/Sons/Siuuuuu.mp3,Siuuuuu,-6.4
 Siuuuuu - part 4,Sons,00:00:01.117,00:00:01.489,sounds/Sons/Siuuuuu.mp3,Siuuuuu,-6.4
+Surprise MotherFucker,Sons,00:00:00.000,00:00:01.486,sounds/Sons/Surprise MotherFucker.mp3,,-1.9
+Surprise MotherFucker - part 1,Sons,00:00:00.000,00:00:00.371,sounds/Sons/Surprise MotherFucker.mp3,Surprise MotherFucker,-1.9
+Surprise MotherFucker - part 2,Sons,00:00:00.371,00:00:00.743,sounds/Sons/Surprise MotherFucker.mp3,Surprise MotherFucker,-1.9
+Surprise MotherFucker - part 3,Sons,00:00:00.743,00:00:01.115,sounds/Sons/Surprise MotherFucker.mp3,Surprise MotherFucker,-1.9
+Surprise MotherFucker - part 4,Sons,00:00:01.115,00:00:01.486,sounds/Sons/Surprise MotherFucker.mp3,Surprise MotherFucker,-1.9
 Transformers,Sons,00:00:00.000,00:00:01.986,sounds/Sons/Transformers.mp3,,-8.9
 Transformers - part 1,Sons,00:00:00.000,00:00:00.496,sounds/Sons/Transformers.mp3,Transformers,-8.9
 Transformers - part 2,Sons,00:00:00.496,00:00:00.993,sounds/Sons/Transformers.mp3,Transformers,-8.9
@@ -426,8 +475,8 @@ Tun Tun - part 2,Sons,00:00:02.467,00:00:04.935,sounds/Sons/Tun Tun.mp3,Tun Tun,
 Tun Tun - part 3,Sons,00:00:04.935,00:00:07.402,sounds/Sons/Tun Tun.mp3,Tun Tun,-12.0
 Tun Tun - part 4,Sons,00:00:07.402,00:00:09.870,sounds/Sons/Tun Tun.mp3,Tun Tun,-12.0
 Ah Agora Eu Entendi Agora eu Saquei,Surpresa,00:00:00.000,00:00:06.922,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,,-0.1
-Ah Agora Eu Entendi Agora eu Saquei - part 1,Surpresa,00:00:00.000,00:00:01.730,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,-0.8
-Ah Agora Eu Entendi Agora eu Saquei - part 2,Surpresa,00:00:01.730,00:00:03.461,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,0.1
+Ah Agora Eu Entendi Agora eu Saquei - part 1,Surpresa,00:00:00.000,00:00:01.730,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,-0.1
+Ah Agora Eu Entendi Agora eu Saquei - part 2,Surpresa,00:00:01.730,00:00:03.461,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,-0.1
 Ah Agora Eu Entendi Agora eu Saquei - part 3,Surpresa,00:00:03.461,00:00:05.191,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,-0.1
 Ah Agora Eu Entendi Agora eu Saquei - part 4,Surpresa,00:00:05.191,00:00:06.922,sounds/Surpresa/Ah Agora Eu Entendi Agora eu Saquei.mp3,Ah Agora Eu Entendi Agora eu Saquei,-0.1
 Alert Metal Gear,Surpresa,00:00:00.000,00:00:01.567,sounds/Surpresa/Alert Metal Gear.mp3,,-2.4
@@ -436,15 +485,15 @@ Alert Metal Gear - part 2,Surpresa,00:00:00.392,00:00:00.783,sounds/Surpresa/Ale
 Alert Metal Gear - part 3,Surpresa,00:00:00.783,00:00:01.175,sounds/Surpresa/Alert Metal Gear.mp3,Alert Metal Gear,-2.4
 Alert Metal Gear - part 4,Surpresa,00:00:01.175,00:00:01.567,sounds/Surpresa/Alert Metal Gear.mp3,Alert Metal Gear,-2.4
 Arquivo X Song,Surpresa,00:00:00.000,00:00:14.864,sounds/Surpresa/Arquivo X Song.mp3,,-1.9
-Arquivo X Song - part 1,Surpresa,00:00:00.000,00:00:03.716,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.6
-Arquivo X Song - part 2,Surpresa,00:00:03.716,00:00:07.432,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.2
-Arquivo X Song - part 3,Surpresa,00:00:07.432,00:00:11.148,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.8
+Arquivo X Song - part 1,Surpresa,00:00:00.000,00:00:03.716,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.9
+Arquivo X Song - part 2,Surpresa,00:00:03.716,00:00:07.432,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.9
+Arquivo X Song - part 3,Surpresa,00:00:07.432,00:00:11.148,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.9
 Arquivo X Song - part 4,Surpresa,00:00:11.148,00:00:14.864,sounds/Surpresa/Arquivo X Song.mp3,Arquivo X Song,-1.9
 Como é Amigo?,Surpresa,00:00:00.000,00:00:00.682,sounds/Surpresa/Como é Amigo?.mp3,,-5.9
 Como é Amigo? - part 1,Surpresa,00:00:00.000,00:00:00.341,sounds/Surpresa/Como é Amigo?.mp3,Como é Amigo?,-5.9
 Como é Amigo? - part 2,Surpresa,00:00:00.341,00:00:00.682,sounds/Surpresa/Como é Amigo?.mp3,Como é Amigo?,-5.9
 Eu Gosto E Assim Amostradinho,Surpresa,00:00:00.000,00:00:04.650,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,,-3.2
-Eu Gosto E Assim Amostradinho - word 1,Surpresa,00:00:00.000,00:00:01.120,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,Eu Gosto E Assim Amostradinho,-3.0
+Eu Gosto E Assim Amostradinho - word 1,Surpresa,00:00:00.000,00:00:01.120,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,Eu Gosto E Assim Amostradinho,-3.2
 Eu Gosto E Assim Amostradinho - word 2,Surpresa,00:00:01.420,00:00:02.880,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,Eu Gosto E Assim Amostradinho,-3.2
 Eu Gosto E Assim Amostradinho - word 3,Surpresa,00:00:02.980,00:00:03.820,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,Eu Gosto E Assim Amostradinho,-3.2
 Eu Gosto E Assim Amostradinho - word 4,Surpresa,00:00:03.880,00:00:04.600,sounds/Surpresa/Eu Gosto E Assim Amostradinho.mp3,Eu Gosto E Assim Amostradinho,-3.2
@@ -454,9 +503,9 @@ Galvão - Olha o que ele fez,Surpresa,00:00:00.000,00:00:04.188,sounds/Surpresa/
 Galvão - Olha o que ele fez - word 1,Surpresa,00:00:00.000,00:00:03.420,sounds/Surpresa/Galvão - Olha o que ele fez.mp3,Galvão - Olha o que ele fez,-7.5
 Galvão - Olha o que ele fez - word 2,Surpresa,00:00:03.640,00:00:03.920,sounds/Surpresa/Galvão - Olha o que ele fez.mp3,Galvão - Olha o que ele fez,-7.5
 Musica Spiderman Meme,Surpresa,00:00:00.000,00:00:12.400,sounds/Surpresa/Musica Spiderman Meme.mp3,,-3.5
-Musica Spiderman Meme - part 1,Surpresa,00:00:00.000,00:00:03.100,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.2
-Musica Spiderman Meme - part 2,Surpresa,00:00:03.100,00:00:06.200,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.0
-Musica Spiderman Meme - part 3,Surpresa,00:00:06.200,00:00:09.300,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.4
+Musica Spiderman Meme - part 1,Surpresa,00:00:00.000,00:00:03.100,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
+Musica Spiderman Meme - part 2,Surpresa,00:00:03.100,00:00:06.200,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
+Musica Spiderman Meme - part 3,Surpresa,00:00:06.200,00:00:09.300,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
 Musica Spiderman Meme - part 4,Surpresa,00:00:09.300,00:00:12.400,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
 Oh My God,Surpresa,00:00:00.000,00:00:01.637,sounds/Surpresa/Oh My God.mp3,,-10.1
 Oh My God - part 1,Surpresa,00:00:00.000,00:00:00.409,sounds/Surpresa/Oh My God.mp3,Oh My God,-10.1
@@ -464,48 +513,54 @@ Oh My God - part 2,Surpresa,00:00:00.409,00:00:00.819,sounds/Surpresa/Oh My God.
 Oh My God - part 3,Surpresa,00:00:00.819,00:00:01.228,sounds/Surpresa/Oh My God.mp3,Oh My God,-10.1
 Oh My God - part 4,Surpresa,00:00:01.228,00:00:01.637,sounds/Surpresa/Oh My God.mp3,Oh My God,-10.1
 Passada Chocada,Surpresa,00:00:00.000,00:00:10.073,sounds/Surpresa/Passada Chocada.mp3,,2.9
-Passada Chocada - part 1,Surpresa,00:00:00.000,00:00:02.518,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,4.2
-Passada Chocada - part 2,Surpresa,00:00:02.518,00:00:05.037,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,4.4
+Passada Chocada - part 1,Surpresa,00:00:00.000,00:00:02.518,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,2.9
+Passada Chocada - part 2,Surpresa,00:00:02.518,00:00:05.037,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,2.9
 Passada Chocada - part 3,Surpresa,00:00:05.037,00:00:07.555,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,2.9
 Passada Chocada - part 4,Surpresa,00:00:07.555,00:00:10.073,sounds/Surpresa/Passada Chocada.mp3,Passada Chocada,2.9
+Sanctuary Guardian - What,Surpresa,00:00:00.000,00:00:09.009,sounds/Surpresa/Sanctuary Guardian - What.mp3,,2.7
+Sanctuary Guardian - What - part 1,Surpresa,00:00:00.000,00:00:02.252,sounds/Surpresa/Sanctuary Guardian - What.mp3,Sanctuary Guardian - What,2.7
+Sanctuary Guardian - What - part 2,Surpresa,00:00:02.252,00:00:04.505,sounds/Surpresa/Sanctuary Guardian - What.mp3,Sanctuary Guardian - What,2.7
+Sanctuary Guardian - What - part 3,Surpresa,00:00:04.505,00:00:06.757,sounds/Surpresa/Sanctuary Guardian - What.mp3,Sanctuary Guardian - What,2.7
+Sanctuary Guardian - What - part 4,Surpresa,00:00:06.757,00:00:09.009,sounds/Surpresa/Sanctuary Guardian - What.mp3,Sanctuary Guardian - What,2.7
 Song - Drama,Surpresa,00:00:00.000,00:00:04.853,sounds/Surpresa/Song - Drama.mp3,,-3.1
-Song - Drama - word 1,Surpresa,00:00:00.000,00:00:01.140,sounds/Surpresa/Song - Drama.mp3,Song - Drama,-3.3
+Song - Drama - word 1,Surpresa,00:00:00.000,00:00:01.140,sounds/Surpresa/Song - Drama.mp3,Song - Drama,-3.1
 Song - Drama - word 2,Surpresa,00:00:01.220,00:00:02.880,sounds/Surpresa/Song - Drama.mp3,Song - Drama,-3.1
 Song - Drama - word 3,Surpresa,00:00:03.000,00:00:04.120,sounds/Surpresa/Song - Drama.mp3,Song - Drama,-3.1
 Song - Drama - word 4,Surpresa,00:00:04.160,00:00:04.780,sounds/Surpresa/Song - Drama.mp3,Song - Drama,-3.1
 Song - Tense,Surpresa,00:00:00.000,00:00:10.710,sounds/Surpresa/Song - Tense.mp3,,3.6
-Song - Tense - part 1,Surpresa,00:00:00.000,00:00:02.678,sounds/Surpresa/Song - Tense.mp3,Song - Tense,3.3
-Song - Tense - part 2,Surpresa,00:00:02.678,00:00:05.355,sounds/Surpresa/Song - Tense.mp3,Song - Tense,2.9
+Song - Tense - part 1,Surpresa,00:00:00.000,00:00:02.678,sounds/Surpresa/Song - Tense.mp3,Song - Tense,3.6
+Song - Tense - part 2,Surpresa,00:00:02.678,00:00:05.355,sounds/Surpresa/Song - Tense.mp3,Song - Tense,3.6
 Song - Tense - part 3,Surpresa,00:00:05.355,00:00:08.033,sounds/Surpresa/Song - Tense.mp3,Song - Tense,3.6
 Song - Tense - part 4,Surpresa,00:00:08.033,00:00:10.710,sounds/Surpresa/Song - Tense.mp3,Song - Tense,3.6
 Ta Porra Menor,Surpresa,00:00:00.000,00:00:02.689,sounds/Surpresa/Ta Porra Menor.mp3,,-10.3
 Voices of Heaven,Surpresa,00:00:00.000,00:00:11.564,sounds/Surpresa/Voices of Heaven.mp3,,-2.9
-Voices of Heaven - part 1,Surpresa,00:00:00.000,00:00:02.891,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.2
-Voices of Heaven - part 2,Surpresa,00:00:02.891,00:00:05.782,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.3
+Voices of Heaven - part 1,Surpresa,00:00:00.000,00:00:02.891,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.9
+Voices of Heaven - part 2,Surpresa,00:00:02.891,00:00:05.782,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.9
 Voices of Heaven - part 3,Surpresa,00:00:05.782,00:00:08.673,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.9
 Voices of Heaven - part 4,Surpresa,00:00:08.673,00:00:11.564,sounds/Surpresa/Voices of Heaven.mp3,Voices of Heaven,-2.9
 What WTF,Surpresa,00:00:00.000,00:00:03.162,sounds/Surpresa/What WTF.mp3,,-2.9
 What WTF - word 1,Surpresa,00:00:00.080,00:00:00.820,sounds/Surpresa/What WTF.mp3,What WTF,-2.9
 What WTF - word 2,Surpresa,00:00:02.440,00:00:03.162,sounds/Surpresa/What WTF.mp3,What WTF,-2.9
 What? Sanctuary Guardian,Surpresa,00:00:00.000,00:00:09.009,sounds/Surpresa/What? Sanctuary Guardian.mp3,,2.7
-What? Sanctuary Guardian - part 1,Surpresa,00:00:00.000,00:00:02.252,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.3
-What? Sanctuary Guardian - part 2,Surpresa,00:00:02.252,00:00:04.505,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.3
+What? Sanctuary Guardian - part 1,Surpresa,00:00:00.000,00:00:02.252,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.7
+What? Sanctuary Guardian - part 2,Surpresa,00:00:02.252,00:00:04.505,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.7
 What? Sanctuary Guardian - part 3,Surpresa,00:00:04.505,00:00:06.757,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.7
 What? Sanctuary Guardian - part 4,Surpresa,00:00:06.757,00:00:09.009,sounds/Surpresa/What? Sanctuary Guardian.mp3,What? Sanctuary Guardian,2.7
 Wow,Surpresa,00:00:00.000,00:00:04.180,sounds/Surpresa/Wow.mp3,,1.0
 Acaba Pelo Amor de Deus,Tristeza,00:00:00.000,00:00:08.556,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,,-7.3
-Acaba Pelo Amor de Deus - part 1,Tristeza,00:00:00.000,00:00:02.139,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-8.6
-Acaba Pelo Amor de Deus - part 2,Tristeza,00:00:02.139,00:00:04.278,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-8.2
+Acaba Pelo Amor de Deus - part 1,Tristeza,00:00:00.000,00:00:02.139,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-7.3
+Acaba Pelo Amor de Deus - part 2,Tristeza,00:00:02.139,00:00:04.278,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-7.3
 Acaba Pelo Amor de Deus - part 3,Tristeza,00:00:04.278,00:00:06.417,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-7.3
 Acaba Pelo Amor de Deus - part 4,Tristeza,00:00:06.417,00:00:08.556,sounds/Tristeza/Acaba Pelo Amor de Deus.mp3,Acaba Pelo Amor de Deus,-7.3
+Ahhhhhhhhh,Tristeza,00:00:00.000,00:00:05.655,sounds/Tristeza/Ahhhhhhhhh.mp3,,-12.0
 Ai Ai,Tristeza,00:00:00.000,00:00:01.881,sounds/Tristeza/Ai Ai.mp3,,-12.0
 Ai Ai - part 1,Tristeza,00:00:00.000,00:00:00.470,sounds/Tristeza/Ai Ai.mp3,Ai Ai,-12.0
 Ai Ai - part 2,Tristeza,00:00:00.470,00:00:00.941,sounds/Tristeza/Ai Ai.mp3,Ai Ai,-12.0
 Ai Ai - part 3,Tristeza,00:00:00.941,00:00:01.411,sounds/Tristeza/Ai Ai.mp3,Ai Ai,-12.0
 Ai Ai - part 4,Tristeza,00:00:01.411,00:00:01.881,sounds/Tristeza/Ai Ai.mp3,Ai Ai,-12.0
 Bolsonaro - Vida E Uma Desgraca,Tristeza,00:00:00.000,00:00:10.656,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,,9.0
-Bolsonaro - Vida E Uma Desgraca - part 1,Tristeza,00:00:00.000,00:00:02.664,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,8.8
-Bolsonaro - Vida E Uma Desgraca - part 2,Tristeza,00:00:02.664,00:00:05.328,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,9.1
+Bolsonaro - Vida E Uma Desgraca - part 1,Tristeza,00:00:00.000,00:00:02.664,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,9.0
+Bolsonaro - Vida E Uma Desgraca - part 2,Tristeza,00:00:02.664,00:00:05.328,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,9.0
 Bolsonaro - Vida E Uma Desgraca - part 3,Tristeza,00:00:05.328,00:00:07.992,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,9.0
 Bolsonaro - Vida E Uma Desgraca - part 4,Tristeza,00:00:07.992,00:00:10.656,sounds/Tristeza/Bolsonaro - Vida E Uma Desgraca.mp3,Bolsonaro - Vida E Uma Desgraca,9.0
 Darth Vader - Noooooo,Tristeza,00:00:00.000,00:00:05.303,sounds/Tristeza/Darth Vader - Noooooo.mp3,,-7.6
@@ -513,8 +568,8 @@ Emotional Damage,Tristeza,00:00:00.000,00:00:03.320,sounds/Tristeza/Emotional Da
 Emotional Damage - word 1,Tristeza,00:00:00.420,00:00:00.900,sounds/Tristeza/Emotional Damage.mp3,Emotional Damage,-7.1
 Emotional Damage - word 2,Tristeza,00:00:01.060,00:00:03.320,sounds/Tristeza/Emotional Damage.mp3,Emotional Damage,-7.1
 Esse Ai Sou Eu,Tristeza,00:00:00.000,00:00:06.409,sounds/Tristeza/Esse Ai Sou Eu.mp3,,-4.6
-Esse Ai Sou Eu - part 1,Tristeza,00:00:00.000,00:00:01.602,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-5.2
-Esse Ai Sou Eu - part 2,Tristeza,00:00:01.602,00:00:03.204,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-4.9
+Esse Ai Sou Eu - part 1,Tristeza,00:00:00.000,00:00:01.602,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-4.6
+Esse Ai Sou Eu - part 2,Tristeza,00:00:01.602,00:00:03.204,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-4.6
 Esse Ai Sou Eu - part 3,Tristeza,00:00:03.204,00:00:04.807,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-4.6
 Esse Ai Sou Eu - part 4,Tristeza,00:00:04.807,00:00:06.409,sounds/Tristeza/Esse Ai Sou Eu.mp3,Esse Ai Sou Eu,-4.6
 Fahhhh,Tristeza,00:00:00.000,00:00:01.927,sounds/Tristeza/Fahhhh.mp3,,-12.0
@@ -523,23 +578,26 @@ Fahhhh - part 2,Tristeza,00:00:00.482,00:00:00.964,sounds/Tristeza/Fahhhh.mp3,Fa
 Fahhhh - part 3,Tristeza,00:00:00.964,00:00:01.445,sounds/Tristeza/Fahhhh.mp3,Fahhhh,-12.0
 Fahhhh - part 4,Tristeza,00:00:01.445,00:00:01.927,sounds/Tristeza/Fahhhh.mp3,Fahhhh,-12.0
 Faustão - Ta Pegando Fogo Bixo,Tristeza,00:00:00.000,00:00:03.505,sounds/Tristeza/Faustão - Ta Pegando Fogo Bixo.mp3,,-10.6
+Fuck This Shit Im Out,Tristeza,00:00:00.000,00:00:02.833,sounds/Tristeza/Fuck This Shit Im Out.mp3,,-3.3
+Fuck This Shit Im Out - word 1,Tristeza,00:00:00.120,00:00:00.420,sounds/Tristeza/Fuck This Shit Im Out.mp3,Fuck This Shit Im Out,-3.3
+Fuck This Shit Im Out - word 2,Tristeza,00:00:00.460,00:00:02.600,sounds/Tristeza/Fuck This Shit Im Out.mp3,Fuck This Shit Im Out,-3.3
 Galvão - Bem Amigos Terminou,Tristeza,00:00:00.000,00:00:09.228,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,,-5.1
-Galvão - Bem Amigos Terminou - part 1,Tristeza,00:00:00.000,00:00:02.307,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-6.6
-Galvão - Bem Amigos Terminou - part 2,Tristeza,00:00:02.307,00:00:04.614,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-6.1
+Galvão - Bem Amigos Terminou - part 1,Tristeza,00:00:00.000,00:00:02.307,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-5.1
+Galvão - Bem Amigos Terminou - part 2,Tristeza,00:00:02.307,00:00:04.614,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-5.1
 Galvão - Bem Amigos Terminou - part 3,Tristeza,00:00:04.614,00:00:06.921,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-5.1
 Galvão - Bem Amigos Terminou - part 4,Tristeza,00:00:06.921,00:00:09.228,sounds/Tristeza/Galvão - Bem Amigos Terminou.mp3,Galvão - Bem Amigos Terminou,-5.1
 Galvão - Momentos de Angustia,Tristeza,00:00:00.000,00:00:03.056,sounds/Tristeza/Galvão - Momentos de Angustia.mp3,,0.9
 Galvão - Ninguém Sabe o Que Faz,Tristeza,00:00:00.000,00:00:08.281,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,,-5.7
-Galvão - Ninguém Sabe o Que Faz - part 1,Tristeza,00:00:00.000,00:00:02.070,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-5.9
-Galvão - Ninguém Sabe o Que Faz - part 2,Tristeza,00:00:02.070,00:00:04.141,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-6.0
+Galvão - Ninguém Sabe o Que Faz - part 1,Tristeza,00:00:00.000,00:00:02.070,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-5.7
+Galvão - Ninguém Sabe o Que Faz - part 2,Tristeza,00:00:02.070,00:00:04.141,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-5.7
 Galvão - Ninguém Sabe o Que Faz - part 3,Tristeza,00:00:04.141,00:00:06.211,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-5.7
 Galvão - Ninguém Sabe o Que Faz - part 4,Tristeza,00:00:06.211,00:00:08.281,sounds/Tristeza/Galvão - Ninguém Sabe o Que Faz.mp3,Galvão - Ninguém Sabe o Que Faz,-5.7
 Goku - Mas que porra,Tristeza,00:00:00.000,00:00:02.183,sounds/Tristeza/Goku - Mas que porra.mp3,,-2.9
 Goku - Mas que porra - word 1,Tristeza,00:00:00.280,00:00:01.160,sounds/Tristeza/Goku - Mas que porra.mp3,Goku - Mas que porra,-2.9
 Goku - Mas que porra - word 2,Tristeza,00:00:01.220,00:00:02.180,sounds/Tristeza/Goku - Mas que porra.mp3,Goku - Mas que porra,-2.9
 Hell Nah,Tristeza,00:00:00.000,00:00:10.797,sounds/Tristeza/Hell Nah.mp3,,-1.3
-Hell Nah - part 1,Tristeza,00:00:00.000,00:00:02.699,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-0.8
-Hell Nah - part 2,Tristeza,00:00:02.699,00:00:05.399,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-1.4
+Hell Nah - part 1,Tristeza,00:00:00.000,00:00:02.699,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-1.3
+Hell Nah - part 2,Tristeza,00:00:02.699,00:00:05.399,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-1.3
 Hell Nah - part 3,Tristeza,00:00:05.399,00:00:08.098,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-1.3
 Hell Nah - part 4,Tristeza,00:00:08.098,00:00:10.797,sounds/Tristeza/Hell Nah.mp3,Hell Nah,-1.3
 Im in Danger,Tristeza,00:00:00.000,00:00:02.352,sounds/Tristeza/Im in Danger.mp3,,8.8
@@ -549,14 +607,14 @@ Lego Breaking - part 2,Tristeza,00:00:00.412,00:00:00.825,sounds/Tristeza/Lego B
 Lego Breaking - part 3,Tristeza,00:00:00.825,00:00:01.237,sounds/Tristeza/Lego Breaking.mp3,Lego Breaking,3.5
 Lego Breaking - part 4,Tristeza,00:00:01.237,00:00:01.649,sounds/Tristeza/Lego Breaking.mp3,Lego Breaking,3.5
 Lula - Cracudo Nao Arruma Desculpas,Tristeza,00:00:00.000,00:00:17.162,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,,-1.3
-Lula - Cracudo Nao Arruma Desculpas - part 1,Tristeza,00:00:00.000,00:00:04.290,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.7
-Lula - Cracudo Nao Arruma Desculpas - part 2,Tristeza,00:00:04.290,00:00:08.581,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.6
-Lula - Cracudo Nao Arruma Desculpas - part 3,Tristeza,00:00:08.581,00:00:12.871,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.6
+Lula - Cracudo Nao Arruma Desculpas - part 1,Tristeza,00:00:00.000,00:00:04.290,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.3
+Lula - Cracudo Nao Arruma Desculpas - part 2,Tristeza,00:00:04.290,00:00:08.581,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.3
+Lula - Cracudo Nao Arruma Desculpas - part 3,Tristeza,00:00:08.581,00:00:12.871,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.3
 Lula - Cracudo Nao Arruma Desculpas - part 4,Tristeza,00:00:12.871,00:00:17.162,sounds/Tristeza/Lula - Cracudo Nao Arruma Desculpas.mp3,Lula - Cracudo Nao Arruma Desculpas,-1.3
 Lula - Pense No Lula,Tristeza,00:00:00.000,00:00:12.542,sounds/Tristeza/Lula - Pense No Lula.mp3,,-1.4
-Lula - Pense No Lula - part 1,Tristeza,00:00:00.000,00:00:03.135,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.8
-Lula - Pense No Lula - part 2,Tristeza,00:00:03.135,00:00:06.271,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.7
-Lula - Pense No Lula - part 3,Tristeza,00:00:06.271,00:00:09.406,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.7
+Lula - Pense No Lula - part 1,Tristeza,00:00:00.000,00:00:03.135,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.4
+Lula - Pense No Lula - part 2,Tristeza,00:00:03.135,00:00:06.271,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.4
+Lula - Pense No Lula - part 3,Tristeza,00:00:06.271,00:00:09.406,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.4
 Lula - Pense No Lula - part 4,Tristeza,00:00:09.406,00:00:12.542,sounds/Tristeza/Lula - Pense No Lula.mp3,Lula - Pense No Lula,-1.4
 Lula - Por Favor Me Ajuda,Tristeza,00:00:00.000,00:00:05.616,sounds/Tristeza/Lula - Por Favor Me Ajuda.mp3,,8.9
 Lula - Por Favor Me Ajuda - word 1,Tristeza,00:00:00.000,00:00:04.140,sounds/Tristeza/Lula - Por Favor Me Ajuda.mp3,Lula - Por Favor Me Ajuda,8.9
@@ -569,53 +627,68 @@ Maguila - Faliceu - part 1,Tristeza,00:00:00.000,00:00:00.346,sounds/Tristeza/Ma
 Maguila - Faliceu - part 2,Tristeza,00:00:00.346,00:00:00.692,sounds/Tristeza/Maguila - Faliceu.mp3,Maguila - Faliceu,4.5
 Maguila - Faliceu - part 3,Tristeza,00:00:00.692,00:00:01.038,sounds/Tristeza/Maguila - Faliceu.mp3,Maguila - Faliceu,4.5
 Maguila - Faliceu - part 4,Tristeza,00:00:01.038,00:00:01.384,sounds/Tristeza/Maguila - Faliceu.mp3,Maguila - Faliceu,4.5
+Musica - Homelander Lusing It,Tristeza,00:00:00.000,00:00:18.549,sounds/Tristeza/Musica - Homelander Lusing It.mp3,,0.1
+Musica - Homelander Lusing It - part 1,Tristeza,00:00:00.000,00:00:04.637,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 2,Tristeza,00:00:04.637,00:00:09.274,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 3,Tristeza,00:00:09.274,00:00:13.912,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 4,Tristeza,00:00:13.912,00:00:18.549,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
 Musica Evil Morty,Tristeza,00:00:00.000,00:00:29.597,sounds/Tristeza/Musica Evil Morty.mp3,,-5.2
-Musica Evil Morty - part 1,Tristeza,00:00:00.000,00:00:07.399,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
-Musica Evil Morty - part 2,Tristeza,00:00:07.399,00:00:14.799,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
-Musica Evil Morty - part 3,Tristeza,00:00:14.799,00:00:22.198,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
+Musica Evil Morty - part 1,Tristeza,00:00:00.000,00:00:07.399,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
+Musica Evil Morty - part 2,Tristeza,00:00:07.399,00:00:14.799,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
+Musica Evil Morty - part 3,Tristeza,00:00:14.799,00:00:22.198,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
 Musica Evil Morty - part 4,Tristeza,00:00:22.198,00:00:29.597,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
 Musica Let Her Go,Tristeza,00:00:00.000,00:00:13.428,sounds/Tristeza/Musica Let Her Go.mp3,,3.5
-Musica Let Her Go - part 1,Tristeza,00:00:00.000,00:00:03.357,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.0
-Musica Let Her Go - part 2,Tristeza,00:00:03.357,00:00:06.714,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.0
-Musica Let Her Go - part 3,Tristeza,00:00:06.714,00:00:10.071,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.2
+Musica Let Her Go - part 1,Tristeza,00:00:00.000,00:00:03.357,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
+Musica Let Her Go - part 2,Tristeza,00:00:03.357,00:00:06.714,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
+Musica Let Her Go - part 3,Tristeza,00:00:06.714,00:00:10.071,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
 Musica Let Her Go - part 4,Tristeza,00:00:10.071,00:00:13.428,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
 Musica Miau Triste,Tristeza,00:00:00.000,00:00:08.893,sounds/Tristeza/Musica Miau Triste.mp3,,-5.2
-Musica Miau Triste - part 1,Tristeza,00:00:00.000,00:00:02.223,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.5
-Musica Miau Triste - part 2,Tristeza,00:00:02.223,00:00:04.447,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.4
+Musica Miau Triste - part 1,Tristeza,00:00:00.000,00:00:02.223,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
+Musica Miau Triste - part 2,Tristeza,00:00:02.223,00:00:04.447,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Miau Triste - part 3,Tristeza,00:00:04.447,00:00:06.670,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Miau Triste - part 4,Tristeza,00:00:06.670,00:00:08.893,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Naruto Sad,Tristeza,00:00:00.000,00:00:16.588,sounds/Tristeza/Musica Naruto Sad.mp3,,0.1
-Musica Naruto Sad - part 1,Tristeza,00:00:00.000,00:00:04.147,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,1.9
-Musica Naruto Sad - part 2,Tristeza,00:00:04.147,00:00:08.294,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,2.4
-Musica Naruto Sad - part 3,Tristeza,00:00:08.294,00:00:12.441,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.4
+Musica Naruto Sad - part 1,Tristeza,00:00:00.000,00:00:04.147,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
+Musica Naruto Sad - part 2,Tristeza,00:00:04.147,00:00:08.294,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
+Musica Naruto Sad - part 3,Tristeza,00:00:08.294,00:00:12.441,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
 Musica Naruto Sad - part 4,Tristeza,00:00:12.441,00:00:16.588,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
 Musica Oceans,Tristeza,00:00:00.000,00:00:28.070,sounds/Tristeza/Musica Oceans.mp3,,0.6
-Musica Oceans - part 1,Tristeza,00:00:00.000,00:00:07.018,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.3
-Musica Oceans - part 2,Tristeza,00:00:07.018,00:00:14.035,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.4
-Musica Oceans - part 3,Tristeza,00:00:14.035,00:00:21.053,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.3
+Musica Oceans - part 1,Tristeza,00:00:00.000,00:00:07.018,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
+Musica Oceans - part 2,Tristeza,00:00:07.018,00:00:14.035,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
+Musica Oceans - part 3,Tristeza,00:00:14.035,00:00:21.053,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
 Musica Oceans - part 4,Tristeza,00:00:21.053,00:00:28.070,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
 Musica Oh-no-no-no,Tristeza,00:00:00.000,00:00:18.260,sounds/Tristeza/Musica Oh-no-no-no.mp3,,2.6
-Musica Oh-no-no-no - part 1,Tristeza,00:00:00.000,00:00:04.565,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.4
-Musica Oh-no-no-no - part 2,Tristeza,00:00:04.565,00:00:09.130,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.9
+Musica Oh-no-no-no - part 1,Tristeza,00:00:00.000,00:00:04.565,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
+Musica Oh-no-no-no - part 2,Tristeza,00:00:04.565,00:00:09.130,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Oh-no-no-no - part 3,Tristeza,00:00:09.130,00:00:13.695,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Oh-no-no-no - part 4,Tristeza,00:00:13.695,00:00:18.260,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Roll Credits,Tristeza,00:00:00.000,00:00:10.177,sounds/Tristeza/Musica Roll Credits.mp3,,3.0
-Musica Roll Credits - part 1,Tristeza,00:00:00.000,00:00:02.544,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,2.7
-Musica Roll Credits - part 2,Tristeza,00:00:02.544,00:00:05.088,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,2.5
+Musica Roll Credits - part 1,Tristeza,00:00:00.000,00:00:02.544,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
+Musica Roll Credits - part 2,Tristeza,00:00:02.544,00:00:05.088,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
 Musica Roll Credits - part 3,Tristeza,00:00:05.088,00:00:07.633,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
 Musica Roll Credits - part 4,Tristeza,00:00:07.633,00:00:10.177,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
 Neto - Não Vai Darrrr,Tristeza,00:00:00.000,00:00:02.780,sounds/Tristeza/Neto - Não Vai Darrrr.mp3,,6.1
 Neto - Não Vai Darrrr - word 1,Tristeza,00:00:00.000,00:00:00.560,sounds/Tristeza/Neto - Não Vai Darrrr.mp3,Neto - Não Vai Darrrr,6.1
 Neto - Não Vai Darrrr - word 2,Tristeza,00:00:00.960,00:00:02.640,sounds/Tristeza/Neto - Não Vai Darrrr.mp3,Neto - Não Vai Darrrr,6.1
+PicaPau - Nao Pode Fazer Nada,Tristeza,00:00:00.000,00:00:05.317,sounds/Tristeza/PicaPau - Nao Pode Fazer Nada.mp3,,-0.4
+PicaPau - Nao Pode Fazer Nada - word 1,Tristeza,00:00:00.080,00:00:04.220,sounds/Tristeza/PicaPau - Nao Pode Fazer Nada.mp3,PicaPau - Nao Pode Fazer Nada,-0.4
+PicaPau - Nao Pode Fazer Nada - word 2,Tristeza,00:00:04.460,00:00:05.317,sounds/Tristeza/PicaPau - Nao Pode Fazer Nada.mp3,PicaPau - Nao Pode Fazer Nada,-0.4
+PicaPau - Va Pro Inferno,Tristeza,00:00:00.000,00:00:02.064,sounds/Tristeza/PicaPau - Va Pro Inferno.mp3,,-7.8
 Pq Deus Odeia O Vasco,Tristeza,00:00:00.000,00:00:11.021,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,,-1.7
-Pq Deus Odeia O Vasco - part 1,Tristeza,00:00:00.000,00:00:02.755,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-3.4
-Pq Deus Odeia O Vasco - part 2,Tristeza,00:00:02.755,00:00:05.511,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-3.2
+Pq Deus Odeia O Vasco - part 1,Tristeza,00:00:00.000,00:00:02.755,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-1.7
+Pq Deus Odeia O Vasco - part 2,Tristeza,00:00:02.755,00:00:05.511,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-1.7
 Pq Deus Odeia O Vasco - part 3,Tristeza,00:00:05.511,00:00:08.266,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-1.7
 Pq Deus Odeia O Vasco - part 4,Tristeza,00:00:08.266,00:00:11.021,sounds/Tristeza/Pq Deus Odeia O Vasco.mp3,Pq Deus Odeia O Vasco,-1.7
+Scammer - NOOOO NOOOO,Tristeza,00:00:00.000,00:00:02.946,sounds/Tristeza/Scammer - NOOOO NOOOO.mp3,,1.4
+Scammer - NOOOO NOOOO - word 1,Tristeza,00:00:00.180,00:00:01.720,sounds/Tristeza/Scammer - NOOOO NOOOO.mp3,Scammer - NOOOO NOOOO,1.4
+Scammer - NOOOO NOOOO - word 2,Tristeza,00:00:01.940,00:00:02.860,sounds/Tristeza/Scammer - NOOOO NOOOO.mp3,Scammer - NOOOO NOOOO,1.4
+Scammer - What Are You Doing?,Tristeza,00:00:00.000,00:00:03.414,sounds/Tristeza/Scammer - What Are You Doing?.mp3,,1.1
+Scammer - What Are You Doing? - word 1,Tristeza,00:00:00.000,00:00:01.380,sounds/Tristeza/Scammer - What Are You Doing?.mp3,Scammer - What Are You Doing?,1.1
+Scammer - What Are You Doing? - word 2,Tristeza,00:00:01.800,00:00:03.080,sounds/Tristeza/Scammer - What Are You Doing?.mp3,Scammer - What Are You Doing?,1.1
 Seloco Nao Compensa,Tristeza,00:00:00.000,00:00:02.328,sounds/Tristeza/Seloco Nao Compensa.mp3,,-6.6
 Smzinho - Comprou o Meu e o Seu,Tristeza,00:00:00.000,00:00:08.448,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,,-10.2
-Smzinho - Comprou o Meu e o Seu - part 1,Tristeza,00:00:00.000,00:00:02.112,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-9.9
-Smzinho - Comprou o Meu e o Seu - part 2,Tristeza,00:00:02.112,00:00:04.224,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-10.5
+Smzinho - Comprou o Meu e o Seu - part 1,Tristeza,00:00:00.000,00:00:02.112,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-10.2
+Smzinho - Comprou o Meu e o Seu - part 2,Tristeza,00:00:02.112,00:00:04.224,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-10.2
 Smzinho - Comprou o Meu e o Seu - part 3,Tristeza,00:00:04.224,00:00:06.336,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-10.2
 Smzinho - Comprou o Meu e o Seu - part 4,Tristeza,00:00:06.336,00:00:08.448,sounds/Tristeza/Smzinho - Comprou o Meu e o Seu.mp3,Smzinho - Comprou o Meu e o Seu,-10.2
 Smzinho - Eu To Com Medo,Tristeza,00:00:00.000,00:00:04.000,sounds/Tristeza/Smzinho - Eu To Com Medo.mp3,,-10.7
@@ -631,62 +704,62 @@ Vai Dar Merda Isso - part 2,Tristeza,00:00:00.359,00:00:00.719,sounds/Tristeza/V
 Vai Dar Merda Isso - part 3,Tristeza,00:00:00.719,00:00:01.078,sounds/Tristeza/Vai Dar Merda Isso.mp3,Vai Dar Merda Isso,-3.3
 Vai Dar Merda Isso - part 4,Tristeza,00:00:01.078,00:00:01.437,sounds/Tristeza/Vai Dar Merda Isso.mp3,Vai Dar Merda Isso,-3.3
 Vai Dar Merda Vaaaai,Tristeza,00:00:00.000,00:00:24.973,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,,-9.7
-Vai Dar Merda Vaaaai - part 1,Tristeza,00:00:00.000,00:00:06.243,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.3
-Vai Dar Merda Vaaaai - part 2,Tristeza,00:00:06.243,00:00:12.486,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.9
-Vai Dar Merda Vaaaai - part 3,Tristeza,00:00:12.486,00:00:18.730,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.6
+Vai Dar Merda Vaaaai - part 1,Tristeza,00:00:00.000,00:00:06.243,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.7
+Vai Dar Merda Vaaaai - part 2,Tristeza,00:00:06.243,00:00:12.486,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.7
+Vai Dar Merda Vaaaai - part 3,Tristeza,00:00:12.486,00:00:18.730,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.7
 Vai Dar Merda Vaaaai - part 4,Tristeza,00:00:18.730,00:00:24.973,sounds/Tristeza/Vai Dar Merda Vaaaai.mp3,Vai Dar Merda Vaaaai,-9.7
-ahhhhhhhhh,Tristeza,00:00:00.000,00:00:06.452,sounds/Tristeza/ahhhhhhhhh.mp3,,-12.0
-ahhhhhhhhh - part 1,Tristeza,00:00:00.000,00:00:01.613,sounds/Tristeza/ahhhhhhhhh.mp3,ahhhhhhhhh,-12.0
-ahhhhhhhhh - part 2,Tristeza,00:00:01.613,00:00:03.226,sounds/Tristeza/ahhhhhhhhh.mp3,ahhhhhhhhh,-12.0
-ahhhhhhhhh - part 3,Tristeza,00:00:03.226,00:00:04.839,sounds/Tristeza/ahhhhhhhhh.mp3,ahhhhhhhhh,-12.0
-ahhhhhhhhh - part 4,Tristeza,00:00:04.839,00:00:06.452,sounds/Tristeza/ahhhhhhhhh.mp3,ahhhhhhhhh,-12.0
 Musica - Somebody Use to Know,Musicas,00:00:00.000,00:00:18.924,sounds/Felicidade/Musica - Somebody Use to Know.mp3,,-5.0
-Musica - Somebody Use to Know - part 1,Musicas,00:00:00.000,00:00:04.731,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-6.1
-Musica - Somebody Use to Know - part 2,Musicas,00:00:04.731,00:00:09.462,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.8
-Musica - Somebody Use to Know - part 3,Musicas,00:00:09.462,00:00:14.193,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.6
+Musica - Somebody Use to Know - part 1,Musicas,00:00:00.000,00:00:04.731,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
+Musica - Somebody Use to Know - part 2,Musicas,00:00:04.731,00:00:09.462,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
+Musica - Somebody Use to Know - part 3,Musicas,00:00:09.462,00:00:14.193,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
 Musica - Somebody Use to Know - part 4,Musicas,00:00:14.193,00:00:18.924,sounds/Felicidade/Musica - Somebody Use to Know.mp3,Musica - Somebody Use to Know,-5.0
 Musica - To Be Continued,Musicas,00:00:00.000,00:00:10.920,sounds/Memes/Musica - To Be Continued.mp3,,2.1
-Musica - To Be Continued - part 1,Musicas,00:00:00.000,00:00:02.730,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,3.6
-Musica - To Be Continued - part 2,Musicas,00:00:02.730,00:00:05.460,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.0
+Musica - To Be Continued - part 1,Musicas,00:00:00.000,00:00:02.730,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
+Musica - To Be Continued - part 2,Musicas,00:00:02.730,00:00:05.460,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 Musica - To Be Continued - part 3,Musicas,00:00:05.460,00:00:08.190,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 Musica - To Be Continued - part 4,Musicas,00:00:08.190,00:00:10.920,sounds/Memes/Musica - To Be Continued.mp3,Musica - To Be Continued,2.1
 Musica Spiderman Meme,Musicas,00:00:00.000,00:00:12.400,sounds/Surpresa/Musica Spiderman Meme.mp3,,-3.5
-Musica Spiderman Meme - part 1,Musicas,00:00:00.000,00:00:03.100,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.2
-Musica Spiderman Meme - part 2,Musicas,00:00:03.100,00:00:06.200,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.0
-Musica Spiderman Meme - part 3,Musicas,00:00:06.200,00:00:09.300,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.4
+Musica Spiderman Meme - part 1,Musicas,00:00:00.000,00:00:03.100,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
+Musica Spiderman Meme - part 2,Musicas,00:00:03.100,00:00:06.200,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
+Musica Spiderman Meme - part 3,Musicas,00:00:06.200,00:00:09.300,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
 Musica Spiderman Meme - part 4,Musicas,00:00:09.300,00:00:12.400,sounds/Surpresa/Musica Spiderman Meme.mp3,Musica Spiderman Meme,-3.5
+Musica - Homelander Lusing It,Musicas,00:00:00.000,00:00:18.549,sounds/Tristeza/Musica - Homelander Lusing It.mp3,,0.1
+Musica - Homelander Lusing It - part 1,Musicas,00:00:00.000,00:00:04.637,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 2,Musicas,00:00:04.637,00:00:09.274,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 3,Musicas,00:00:09.274,00:00:13.912,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
+Musica - Homelander Lusing It - part 4,Musicas,00:00:13.912,00:00:18.549,sounds/Tristeza/Musica - Homelander Lusing It.mp3,Musica - Homelander Lusing It,0.1
 Musica Evil Morty,Musicas,00:00:00.000,00:00:29.597,sounds/Tristeza/Musica Evil Morty.mp3,,-5.2
-Musica Evil Morty - part 1,Musicas,00:00:00.000,00:00:07.399,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
-Musica Evil Morty - part 2,Musicas,00:00:07.399,00:00:14.799,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
-Musica Evil Morty - part 3,Musicas,00:00:14.799,00:00:22.198,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.1
+Musica Evil Morty - part 1,Musicas,00:00:00.000,00:00:07.399,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
+Musica Evil Morty - part 2,Musicas,00:00:07.399,00:00:14.799,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
+Musica Evil Morty - part 3,Musicas,00:00:14.799,00:00:22.198,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
 Musica Evil Morty - part 4,Musicas,00:00:22.198,00:00:29.597,sounds/Tristeza/Musica Evil Morty.mp3,Musica Evil Morty,-5.2
 Musica Let Her Go,Musicas,00:00:00.000,00:00:13.428,sounds/Tristeza/Musica Let Her Go.mp3,,3.5
-Musica Let Her Go - part 1,Musicas,00:00:00.000,00:00:03.357,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.0
-Musica Let Her Go - part 2,Musicas,00:00:03.357,00:00:06.714,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.0
-Musica Let Her Go - part 3,Musicas,00:00:06.714,00:00:10.071,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.2
+Musica Let Her Go - part 1,Musicas,00:00:00.000,00:00:03.357,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
+Musica Let Her Go - part 2,Musicas,00:00:03.357,00:00:06.714,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
+Musica Let Her Go - part 3,Musicas,00:00:06.714,00:00:10.071,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
 Musica Let Her Go - part 4,Musicas,00:00:10.071,00:00:13.428,sounds/Tristeza/Musica Let Her Go.mp3,Musica Let Her Go,3.5
 Musica Miau Triste,Musicas,00:00:00.000,00:00:08.893,sounds/Tristeza/Musica Miau Triste.mp3,,-5.2
-Musica Miau Triste - part 1,Musicas,00:00:00.000,00:00:02.223,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.5
-Musica Miau Triste - part 2,Musicas,00:00:02.223,00:00:04.447,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.4
+Musica Miau Triste - part 1,Musicas,00:00:00.000,00:00:02.223,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
+Musica Miau Triste - part 2,Musicas,00:00:02.223,00:00:04.447,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Miau Triste - part 3,Musicas,00:00:04.447,00:00:06.670,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Miau Triste - part 4,Musicas,00:00:06.670,00:00:08.893,sounds/Tristeza/Musica Miau Triste.mp3,Musica Miau Triste,-5.2
 Musica Naruto Sad,Musicas,00:00:00.000,00:00:16.588,sounds/Tristeza/Musica Naruto Sad.mp3,,0.1
-Musica Naruto Sad - part 1,Musicas,00:00:00.000,00:00:04.147,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,1.9
-Musica Naruto Sad - part 2,Musicas,00:00:04.147,00:00:08.294,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,2.4
-Musica Naruto Sad - part 3,Musicas,00:00:08.294,00:00:12.441,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.4
+Musica Naruto Sad - part 1,Musicas,00:00:00.000,00:00:04.147,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
+Musica Naruto Sad - part 2,Musicas,00:00:04.147,00:00:08.294,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
+Musica Naruto Sad - part 3,Musicas,00:00:08.294,00:00:12.441,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
 Musica Naruto Sad - part 4,Musicas,00:00:12.441,00:00:16.588,sounds/Tristeza/Musica Naruto Sad.mp3,Musica Naruto Sad,0.1
 Musica Oceans,Musicas,00:00:00.000,00:00:28.070,sounds/Tristeza/Musica Oceans.mp3,,0.6
-Musica Oceans - part 1,Musicas,00:00:00.000,00:00:07.018,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.3
-Musica Oceans - part 2,Musicas,00:00:07.018,00:00:14.035,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.4
-Musica Oceans - part 3,Musicas,00:00:14.035,00:00:21.053,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.3
+Musica Oceans - part 1,Musicas,00:00:00.000,00:00:07.018,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
+Musica Oceans - part 2,Musicas,00:00:07.018,00:00:14.035,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
+Musica Oceans - part 3,Musicas,00:00:14.035,00:00:21.053,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
 Musica Oceans - part 4,Musicas,00:00:21.053,00:00:28.070,sounds/Tristeza/Musica Oceans.mp3,Musica Oceans,0.6
 Musica Oh-no-no-no,Musicas,00:00:00.000,00:00:18.260,sounds/Tristeza/Musica Oh-no-no-no.mp3,,2.6
-Musica Oh-no-no-no - part 1,Musicas,00:00:00.000,00:00:04.565,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.4
-Musica Oh-no-no-no - part 2,Musicas,00:00:04.565,00:00:09.130,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.9
+Musica Oh-no-no-no - part 1,Musicas,00:00:00.000,00:00:04.565,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
+Musica Oh-no-no-no - part 2,Musicas,00:00:04.565,00:00:09.130,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Oh-no-no-no - part 3,Musicas,00:00:09.130,00:00:13.695,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Oh-no-no-no - part 4,Musicas,00:00:13.695,00:00:18.260,sounds/Tristeza/Musica Oh-no-no-no.mp3,Musica Oh-no-no-no,2.6
 Musica Roll Credits,Musicas,00:00:00.000,00:00:10.177,sounds/Tristeza/Musica Roll Credits.mp3,,3.0
-Musica Roll Credits - part 1,Musicas,00:00:00.000,00:00:02.544,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,2.7
-Musica Roll Credits - part 2,Musicas,00:00:02.544,00:00:05.088,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,2.5
+Musica Roll Credits - part 1,Musicas,00:00:00.000,00:00:02.544,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
+Musica Roll Credits - part 2,Musicas,00:00:02.544,00:00:05.088,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
 Musica Roll Credits - part 3,Musicas,00:00:05.088,00:00:07.633,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
 Musica Roll Credits - part 4,Musicas,00:00:07.633,00:00:10.177,sounds/Tristeza/Musica Roll Credits.mp3,Musica Roll Credits,3.0
