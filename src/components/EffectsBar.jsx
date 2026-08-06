@@ -3,6 +3,7 @@ const EFFECTS = [
   { key: 'distortion', label: 'Distortion', min: 0, max: 1, step: 0.01 },
   { key: 'reverb', label: 'Reverb', min: 0, max: 1, step: 0.01 },
   { key: 'speed', label: 'Speed', min: 0.5, max: 2, step: 0.01 },
+  { key: 'volume', label: 'Volume', min: 0, max: 1.5, step: 0.01 },
 ]
 
 function formatValue(key, value) {
@@ -12,21 +13,27 @@ function formatValue(key, value) {
 function EffectsBar({ effects, onChange, onStopAll }) {
   return (
     <div className="effects-bar">
-      {EFFECTS.map(({ key, label, min, max, step }) => (
-        <div className="effect-control" key={key}>
-          <label htmlFor={`effect-${key}`}>{label}</label>
-          <input
-            id={`effect-${key}`}
-            type="range"
-            min={min}
-            max={max}
-            step={step}
-            value={effects[key]}
-            onChange={(e) => onChange(key, Number(e.target.value))}
-          />
-          <span className="effect-value">{formatValue(key, effects[key])}</span>
-        </div>
-      ))}
+      {EFFECTS.map(({ key, label, min, max, step }) => {
+        const value = effects[key]
+        const pct = ((value - min) / (max - min)) * 100
+        return (
+          <div className="effect-control" key={key} style={{ '--pct': `${pct}%` }}>
+            <input
+              aria-label={label}
+              type="range"
+              min={min}
+              max={max}
+              step={step}
+              value={value}
+              onChange={(e) => onChange(key, Number(e.target.value))}
+            />
+            <div className="effect-label-overlay" aria-hidden="true">
+              <span>{label}</span>
+              <span className="effect-value">{formatValue(key, value)}</span>
+            </div>
+          </div>
+        )
+      })}
       <button type="button" className="stop-all-button" onClick={onStopAll}>
         ⏹ Parar Tudo
       </button>

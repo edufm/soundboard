@@ -82,6 +82,7 @@ function initChain(audioCtx) {
 
   return {
     firstStageIn: distortionStage.stageIn,
+    masterGain,
     stages: {
       distortion: distortionStage,
       echo: echoStage,
@@ -110,6 +111,11 @@ export function setEffect(name, intensity) {
 
 export function setSpeed(value) {
   speed = value
+}
+
+export function setVolume(value) {
+  const c = getContext()
+  chain.masterGain.gain.setTargetAtTime(value, c.currentTime, 0.02)
 }
 
 function loadBuffer(path) {

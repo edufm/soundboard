@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { loadSounds } from './csvParser'
-import { setEffect, setSpeed, stopAll } from './audioEngine'
+import { setEffect, setSpeed, setVolume, stopAll } from './audioEngine'
 import EffectsBar from './components/EffectsBar'
 import Tabs from './components/Tabs'
 import SoundGrid from './components/SoundGrid'
@@ -12,6 +12,7 @@ function App() {
     distortion: 0,
     reverb: 0,
     speed: 1,
+    volume: 0.9,
   })
   const [tabsData, setTabsData] = useState(null)
   const [activeTab, setActiveTab] = useState(null)
@@ -29,6 +30,7 @@ function App() {
   const handleEffectChange = (name, value) => {
     setEffects((prev) => ({ ...prev, [name]: value }))
     if (name === 'speed') setSpeed(value)
+    else if (name === 'volume') setVolume(value)
     else setEffect(name, value)
   }
 
