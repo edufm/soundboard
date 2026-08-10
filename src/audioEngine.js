@@ -122,11 +122,17 @@ export function setVolume(value) {
   chain.masterGain.gain.setTargetAtTime(value, c.currentTime, 0.02)
 }
 
+// Escapes each path segment so filenames containing URL-reserved characters
+// (e.g. "Como é Amigo?.mp3") don't get misparsed as query strings/fragments.
+function encodePath(path) {
+  return path.split('/').map(encodeURIComponent).join('/')
+}
+
 function loadBuffer(path) {
   if (bufferCache.has(path)) return bufferCache.get(path)
 
   const c = getContext()
-  const promise = fetch(path)
+  const promise = fetch(encodePath(path))
     .then((res) => {
       if (!res.ok) throw new Error(`${path}: ${res.status}`)
       return res.arrayBuffer()
